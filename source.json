@@ -20,15 +20,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6542400\">RuTracker Topic Page</a>"
     },
     {
-      "title": "007 First Light (v1.3.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6A978F236A08A8CA0A58AAEC993FEDB2D9A7B837&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-04T12:00:00Z",
-      "fileSize": "53.44 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6868805\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "03.04 (v1.4) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:440F5A8CF3806071479E40FB19E443A19A3D8FD5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -121,11 +112,11 @@
     {
       "title": "10 Talismans [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:B7F3687DAA5F0183448292805BB42E8FEDEF058A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:88E1BACF5A9A08AEB772CA38A93FA5E063E3068B&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2016-12-24T12:00:00Z",
-      "fileSize": "10.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5330879\">RuTracker Topic Page</a>"
+      "fileSize": "11.6 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5330898\">RuTracker Topic Page</a>"
     },
     {
       "title": "100 Berlin Cats [Portable]",
@@ -2675,24 +2666,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6561743\">RuTracker Topic Page</a>"
     },
     {
-      "title": "A Stroke of Fate - Operation Valkyrie (v1.02) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:D527851740D248B38663D5C28A245750931741E9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2020-02-02T12:00:00Z",
-      "fileSize": "1.3 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3845083\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "A Stroke of Fate 2 - Operation Bunker (v1.00) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EA8EA69FCEB1EC6C2302E817AB08930782782969&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2015-11-13T12:00:00Z",
-      "fileSize": "1.15 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3846554\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "A Summer's End - Hong Kong 1986 [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:8F98BCB6B78C0E5CE75695AB114AF3AC01F0EEAD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -2889,15 +2862,6 @@
       "uploadDate": "2026-06-15T12:00:00Z",
       "fileSize": "20.42 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6778220\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "A.R.E.S. Extinction Agenda (v1.4.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:739386D8CC723752B702D9D08643D42F34FC8998&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2014-09-17T12:00:00Z",
-      "fileSize": "213.1 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3924614\">RuTracker Topic Page</a>"
     },
     {
       "title": "A.R.S.E.N.A.L.: Taste the Power [Portable]",
@@ -3937,11 +3901,11 @@
     {
       "title": "Adventure Time: Pirates of the Enchiridion [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:C97CBE8737324A35F1734A71E33602E9026AA1A6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:2A02C5DBDB5CA651359A885631F5899C7CB1AA9A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-05-12T12:00:00Z",
-      "fileSize": "483.8 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5589120\">RuTracker Topic Page</a>"
+      "uploadDate": "2019-04-15T12:00:00Z",
+      "fileSize": "787.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5588594\">RuTracker Topic Page</a>"
     },
     {
       "title": "Adventure Trip: Amazing WildLife Collector’s Edition [Portable]",
@@ -4090,11 +4054,11 @@
     {
       "title": "Aeon Drive (v1.2.03.1825) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:D302FCE2041A15651BA4CD41DF7A0AD657EF738B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:C6910ACA509DA08B87B3E0BCA4FDD3889813A70D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2020-08-02T12:00:00Z",
-      "fileSize": "517.6 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5925982\">RuTracker Topic Page</a>"
+      "uploadDate": "2025-07-30T12:00:00Z",
+      "fileSize": "591.1 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6117057\">RuTracker Topic Page</a>"
     },
     {
       "title": "Aeon Must Die! (v1.14) [Portable]",
@@ -4819,11 +4783,11 @@
     {
       "title": "Age of Pirates 2 : City of Abandoned Ships (v1.3.2) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:806E017D2CF79383770D71E80C331BFA198285CC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:D437718ABDF23F611162A333E19DA26B25E4EDD0&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-23T12:00:00Z",
-      "fileSize": "2.06 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4188964\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-11-04T12:00:00Z",
+      "fileSize": "6.26 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6264493\">RuTracker Topic Page</a>"
     },
     {
       "title": "Age of Pirates: Captain Blood [Portable]",
@@ -5256,6 +5220,15 @@
       "uploadDate": "2025-12-16T12:00:00Z",
       "fileSize": "3.15 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6440343\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Airborne Empire [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:5E0040B0F202BF1808F4FCEE606E264D37A0C35C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-05-09T12:00:00Z",
+      "fileSize": "655.7 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6847706\">RuTracker Topic Page</a>"
     },
     {
       "title": "Airborne Kingdom (v1.10.1) [Portable]",
@@ -6804,15 +6777,6 @@
       "uploadDate": "2020-04-14T12:00:00Z",
       "fileSize": "2.56 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5752259\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Alternativa [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6A717DFAF0E1AF6C0BFDC8554287A323D6981C37&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-10-10T12:00:00Z",
-      "fileSize": "1.35 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4009906\">RuTracker Topic Page</a>"
     },
     {
       "title": "ALTF4 [Portable]",
@@ -8914,11 +8878,11 @@
     {
       "title": "Aphelion (v1.03.1628077) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:212A6A393FE9BEFE5B01C4F11013A6AAF224F053&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:0BA9804A807A9928ECF37CAC1B23D722D1E3431E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-06-04T12:00:00Z",
-      "fileSize": "26.68 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6858285\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-06-16T12:00:00Z",
+      "fileSize": "25.53 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6851576\">RuTracker Topic Page</a>"
     },
     {
       "title": "API Tetris 7 [Portable]",
@@ -10710,15 +10674,6 @@
       "uploadDate": "2026-02-19T12:00:00Z",
       "fileSize": "12.54 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6818291\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Ashes of Immortality [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:22E3ECC9207199BA4EB657F404994A9CCEF0123D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2012-05-03T12:00:00Z",
-      "fileSize": "74.8 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4007206\">RuTracker Topic Page</a>"
     },
     {
       "title": "Ashes of Oahu (v0.1.0.3404) [Portable]",
@@ -12854,15 +12809,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6201457\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Babel Rising (v1.2.0.9156) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:0E7A2474202DB94B3C7D377AE07C544A6A51A5CF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-03-11T12:00:00Z",
-      "fileSize": "233.1 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4147805\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Babol the Walking Box [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:6437E3416DA6DDE946B429AE95700E4B4FB924AD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -13005,6 +12951,15 @@
       "uploadDate": "2026-06-22T12:00:00Z",
       "fileSize": "3.02 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6723659\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Back to the Future: The Game [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:394F8F6EC3169CFF85C6A44ADC1A42F71F7109DD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-05-07T12:00:00Z",
+      "fileSize": "1.99 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6419607\">RuTracker Topic Page</a>"
     },
     {
       "title": "Back3 :Spooky [Portable]",
@@ -13563,15 +13518,6 @@
       "uploadDate": "2025-12-14T12:00:00Z",
       "fileSize": "990 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6620125\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Bang Bang Racing [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:7032E1907CB7396A570466921913E354DF442E8B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-08-05T12:00:00Z",
-      "fileSize": "283.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4089276\">RuTracker Topic Page</a>"
     },
     {
       "title": "Banishers: Ghosts of New Eden (v1.5.0.0) [Portable]",
@@ -15095,15 +15041,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2136788\">RuTracker Topic Page</a>"
     },
     {
-      "title": "BEEP [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:C2AF03C8AFEA0BB65954D006782F5FC00F407F89&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2021-02-09T12:00:00Z",
-      "fileSize": "248.3 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3565859\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Beer Factory (v69) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7153C3E679690459F8A7B25150786469A5D67D99&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -15228,15 +15165,6 @@
       "uploadDate": "2026-04-30T12:00:00Z",
       "fileSize": "982.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6371995\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Beholder 3 (v1.0.7) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:F9BFD33C152088C78330253B18D40D685FD66A76&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-14T12:00:00Z",
-      "fileSize": "1.33 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6186545\">RuTracker Topic Page</a>"
     },
     {
       "title": "Beholgar [Portable]",
@@ -23006,15 +22934,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2972332\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Carmageddon: Reincarnation (v1.2.1.7713) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EFEEEE4CD86EE129964D4DB067F9C32152627E20&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-10-18T12:00:00Z",
-      "fileSize": "9.93 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5282515\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Carmageddon: Rogue Shift (v1.5.0) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:58E0D9BDA59257092A485EA49E0A33E15F389110&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -24626,15 +24545,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5380372\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Chernobyl Liquidators (v0.9.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:DC1B06398248CB12611D2AB2578E61C73CFCD3A5&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-02T12:00:00Z",
-      "fileSize": "18.99 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6537470\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Chernobyl. Terrorist Attack (v1.15) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:2C88D9745803D6D0FC026FAE0401E5AF1F11C96C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -25587,15 +25497,6 @@
       "uploadDate": "2023-10-09T12:00:00Z",
       "fileSize": "699.3 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6419587\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Choplifter HD (v1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:AA1825738983C20E57CC405515EBE75E389D20F5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2023-01-01T12:00:00Z",
-      "fileSize": "1.74 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3897743\">RuTracker Topic Page</a>"
     },
     {
       "title": "Chorus (v1.0) [Portable]",
@@ -26572,11 +26473,11 @@
     {
       "title": "Cities XXL (v1.5.0.1) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:1C274AF7000E5A8C8AD55A1F15E3663D45EC3C99&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:6B0A95762248D70AE14E82A14FCE0D81CEA40EC0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2026-09-08T12:00:00Z",
-      "fileSize": "4.86 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6905584\">RuTracker Topic Page</a>"
+      "fileSize": "5.61 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5160274\">RuTracker Topic Page</a>"
     },
     {
       "title": "Cities: Skylines (v1.21.1) [Portable]",
@@ -28685,13 +28586,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6252662\">RuTracker Topic Page</a>"
     },
     {
-      "title": "COMMANDOS [Portable]",
+      "title": "Commandos [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:F4B7B5BA4C66262283715B328FD0283488C59B93&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:DFBCE023C6CB9A3318E021AABA7785D3F423E505&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-09-28T12:00:00Z",
-      "fileSize": "3.52 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3825152\">RuTracker Topic Page</a>"
+      "uploadDate": "2017-05-10T12:00:00Z",
+      "fileSize": "633.6 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1009107\">RuTracker Topic Page</a>"
     },
     {
       "title": "Commandos: Behind Enemy lines + Beyond the call of duty + Ammo Pack [Portable]",
@@ -29405,22 +29306,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6360345\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Control - Ultimate Edition (v1.32) [Portable]",
+      "title": "Control Resonant (v0.564.629.5) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:6A06524F355E38A688313365D860AFD545BCFAA3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-20T12:00:00Z",
-      "fileSize": "26.49 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5939760\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Control Resonant (v26.1.29.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:5E80C58A99DB38BCEB12F9D6AF46DBCAD76D13B4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:077C160009DBBF63D9C9B072A58D50EA61A6CDA9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2026-11-04T12:00:00Z",
-      "fileSize": "96.09 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6929456\">RuTracker Topic Page</a>"
+      "fileSize": "106.79 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6912737\">RuTracker Topic Page</a>"
     },
     {
       "title": "Convergence: A League of Legends Story [Portable]",
@@ -29601,15 +29493,6 @@
       "uploadDate": "2026-09-09T12:00:00Z",
       "fileSize": "314.6 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6189704\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Coridden (v1.3.4) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:491731A5A092B54C7940F77744761CFB816CDF68&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-11-15T12:00:00Z",
-      "fileSize": "9.26 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6637723\">RuTracker Topic Page</a>"
     },
     {
       "title": "Corner Kitchen Fast Food Simulator (v1.1.5) [Portable]",
@@ -31198,11 +31081,11 @@
     {
       "title": "Cross Racing Championship Extreme (v909) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:FBF6D47421143912061DF18782C18055476CEDE2&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:A9B0E86EF58271F92F5BA0864B0CB3B0EE9757A5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2022-03-01T12:00:00Z",
-      "fileSize": "366.1 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5619011\">RuTracker Topic Page</a>"
+      "uploadDate": "2025-08-06T12:00:00Z",
+      "fileSize": "1021.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5680996\">RuTracker Topic Page</a>"
     },
     {
       "title": "Crossbow Warrior - The Legend of William Tell [Portable]",
@@ -31646,15 +31529,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5204482\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Crysis 1+2+3 Remastered [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:A62527E84DBA40DAE85C527A1009C047E2439DFB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-05T12:00:00Z",
-      "fileSize": "81.31 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6754387\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Crysis 2 (v1.9) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:0985E457CE61823980BC7C7B829BC2CA6DB31EE8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -31853,13 +31727,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4660525\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Cthulhu: The Cosmic Abyss (v1.8326.29819) [Portable]",
+      "title": "Cthulhu: The Cosmic Abyss [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:FBE0998C3073FF47D26770EDE5AE40FE950503F1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:5EA855592A2E6518F3A9D0163341234F09BD8E68&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-04T12:00:00Z",
-      "fileSize": "14.56 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6846222\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-09-04T12:00:00Z",
+      "fileSize": "18.54 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6846381\">RuTracker Topic Page</a>"
     },
     {
       "title": "CTU: Counter Terrorism Unit (v1.0.20) [Portable]",
@@ -33592,11 +33466,11 @@
     {
       "title": "Dark Earth [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:0BA3B584522773DF52B0C1C24D9E1C353249B7E1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:319B56CE472B6939CF8552C31F02336C25830DBB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2022-12-20T12:00:00Z",
-      "fileSize": "1.16 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=349146\">RuTracker Topic Page</a>"
+      "fileSize": "517.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2436215\">RuTracker Topic Page</a>"
     },
     {
       "title": "Dark Echo [Portable]",
@@ -33678,15 +33552,6 @@
       "uploadDate": "2024-10-30T12:00:00Z",
       "fileSize": "3.9 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5736541\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Dark Heritage: Guardians of Hope (v1.0.926) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:7E4D9B71CCDB1437C01F5492C814A4E6BFA5B50E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2016-12-08T12:00:00Z",
-      "fileSize": "545 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5322975\">RuTracker Topic Page</a>"
     },
     {
       "title": "Dark Heritage: Guardians of Hope Collector's Edition [Portable]",
@@ -35930,15 +35795,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6226695\">RuTracker Topic Page</a>"
     },
     {
-      "title": "DeadEnd Cerebral Vortex [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:D57967C226C284E03497CC00984FA4374B311271&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2012-01-30T12:00:00Z",
-      "fileSize": "155 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3909948\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Deadeye Deepfake Simulacrum [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:1F2C16E41869CFFAB35A35DAC0970165DA117590&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -36378,15 +36234,6 @@
       "uploadDate": "2017-09-09T12:00:00Z",
       "fileSize": "1.61 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5450894\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Death Rally (v1.00.20.023) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:E0B37B7B7E52D145D0D3BFC6F5893168FB931B5C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-05-26T12:00:00Z",
-      "fileSize": "506.4 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4025447\">RuTracker Topic Page</a>"
     },
     {
       "title": "Death Road [Portable]",
@@ -37640,15 +37487,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4986212\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Demon Hunter 2: New Chapter (v1.0.665249) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:B154B8AE150EC6E56768AC75B7E51245DDB38EFF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2016-12-12T12:00:00Z",
-      "fileSize": "490.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5323462\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Demon Hunter 2: New Chapter Premium Edition [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7B2540DE567045AE032DB375ABBC8E56EE813C4C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -37872,15 +37710,6 @@
       "uploadDate": "2024-12-02T12:00:00Z",
       "fileSize": "2.42 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6392242\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Demonicon (v1.1.0.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:85467FCB7F2964E09EDCE52126E5F8A97EC088ED&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-03-13T12:00:00Z",
-      "fileSize": "6.25 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6189879\">RuTracker Topic Page</a>"
     },
     {
       "title": "Demonologist (v1.5.0) [Portable]",
@@ -38250,6 +38079,15 @@
       "uploadDate": "2024-07-14T12:00:00Z",
       "fileSize": "277 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6357720\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Desktop Explorer (v1.0.66) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:504AA2C9F54FE2871585C35B72DB23A5EBA588F6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-09-11T12:00:00Z",
+      "fileSize": "390.3 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6884303\">RuTracker Topic Page</a>"
     },
     {
       "title": "Desktop Survivors 98 [Portable]",
@@ -39501,15 +39339,6 @@
       "uploadDate": "2026-10-15T12:00:00Z",
       "fileSize": "26.26 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6880288\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Digimon Survive (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:CE83DAA3B6244FFC51A39E4409557AC472D40C49&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-07-06T12:00:00Z",
-      "fileSize": "5.91 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6548562\">RuTracker Topic Page</a>"
     },
     {
       "title": "Digimon world (v1.5) [Portable]",
@@ -41537,15 +41366,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6435870\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Don't Shoot Us (v1.0.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6C90739B9D9C547C7357C8F37479C1C14C30A32E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-01-01T12:00:00Z",
-      "fileSize": "9.65 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6458043\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Don't Sleep With The Fishes (v1.1.3) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:9B98493ACABD2E542017F90D75BC76F730D87406&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -41744,15 +41564,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4305208\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Doom 3 BFG Edition - The Lost Mission (v1.0.3.1401.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6D634074B587D5E640663610A8487278A331655F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-02-09T12:00:00Z",
-      "fileSize": "960 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5403976\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "DOOM 64 EX + The Lost Levels [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7C0D5CD53255062175EEC85065AA7B0414ADF358&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -41760,15 +41571,6 @@
       "uploadDate": "2024-06-16T12:00:00Z",
       "fileSize": "11.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5083833\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Doom 64: Retribution (v1.5) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:F6928C360F87956A62169D8D36B6335E99C57990&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-01-11T12:00:00Z",
-      "fileSize": "193.1 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5410126\">RuTracker Topic Page</a>"
     },
     {
       "title": "Doom [Portable]",
@@ -44849,15 +44651,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6332748\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Dungeons of Dredmor (v1.1.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:501CB32C6237A5586D62AE8D13BEF3C96C00AE89&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-25T12:00:00Z",
-      "fileSize": "185.3 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4104374\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Dungeons of Hinterberg (v1.0.27492) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:5FA10607A070DD76FB50112655A915A6C6A71BC6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -45072,6 +44865,15 @@
       "uploadDate": "2013-12-16T12:00:00Z",
       "fileSize": "1.09 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4484620\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Dwarf Eats Mountain (v1.5.2) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:22D6BA85CCD6633C5A0B105F03C7E0FBF741E73D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-06-13T12:00:00Z",
+      "fileSize": "58.3 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6862890\">RuTracker Topic Page</a>"
     },
     {
       "title": "Dwarf Fortress (v53.16) [Portable]",
@@ -45553,11 +45355,11 @@
     {
       "title": "Earth Defense Force 5 (v1.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:0448C4424739E7927CA215AE507F108A17954FFF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:0354C557392FD159B3CD91D99E23FD3271C3E56A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-06-17T12:00:00Z",
-      "fileSize": "18.8 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5754273\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-02-28T12:00:00Z",
+      "fileSize": "16.38 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6693496\">RuTracker Topic Page</a>"
     },
     {
       "title": "Earth Defense Force 6 [Portable]",
@@ -46831,11 +46633,11 @@
     {
       "title": "Elex II (v1.05) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:3DE688AB7F81E170C88621A6856088ECF5ACFF96&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:5E87884D012FD48957B0324A72E84B6E8AD6AF77&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-06-17T12:00:00Z",
-      "fileSize": "69.3 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6185789\">RuTracker Topic Page</a>"
+      "uploadDate": "2025-09-30T12:00:00Z",
+      "fileSize": "86.49 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6185806\">RuTracker Topic Page</a>"
     },
     {
       "title": "Elfen Lied Fight Game [Portable]",
@@ -49376,15 +49178,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5459752\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Eventide: Slavic Fable (v1.0.38572) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:D6ABB58F537CC6D0BC0F352708E675EC9AC77EFC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2016-12-07T12:00:00Z",
-      "fileSize": "906.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5322370\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Eventide: Slavic Fable Collector's Edition [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:03F58E3864689D6C4E03FD14C6ED500469714754&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -50942,15 +50735,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4346816\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Fahr-Simulator 2012 (v1.62) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:62FA75054848714940122A8EFAB7702FE16226D6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2014-12-27T12:00:00Z",
-      "fileSize": "690.5 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4090400\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Fahrenheit Quest [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:363E92FFDB5AD313A31108C0C923D4121B097EFF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -51457,11 +51241,11 @@
     {
       "title": "Fallen: A2P Protocol (v1.1.2) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:547E9321254560ABEE5DB3E2155C5CFBB823A860&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:A1E0E68E5CDE3ABDB230FFCC89FF27FF8BCD9DA3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2022-05-27T12:00:00Z",
-      "fileSize": "252.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5095861\">RuTracker Topic Page</a>"
+      "uploadDate": "2023-11-03T12:00:00Z",
+      "fileSize": "370.7 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5060718\">RuTracker Topic Page</a>"
     },
     {
       "title": "Fallen: Flowers Of Evil [Portable]",
@@ -57341,13 +57125,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1214496\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Frayed Knights: The Skull of S’makh-Daon (v1.04) [Portable]",
+      "title": "Frayed Knights: The Skull of S'makh-Daon (v1.04) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:B7B77850DB12F002F1853C2E58D1327B63CBADB5&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:181FE265502AE0D2ED134AE5B6B35BBB9AE1BF1E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2018-11-04T12:00:00Z",
-      "fileSize": "194.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3771264\">RuTracker Topic Page</a>"
+      "uploadDate": "2014-06-30T12:00:00Z",
+      "fileSize": "195.8 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3779338\">RuTracker Topic Page</a>"
     },
     {
       "title": "Freakout Extreme Freeride [Portable]",
@@ -58178,15 +57962,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5743115\">RuTracker Topic Page</a>"
     },
     {
-      "title": "From Dust [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:3219A31138F82CAAF7DEA292DD8259758946459D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-06-09T12:00:00Z",
-      "fileSize": "1.1 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3731082\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "From Madness with Love (v7.1.2) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:5C92F801E2D01C8F9B7F3B2EB27C370C789C8DDC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -58871,15 +58646,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6356984\">RuTracker Topic Page</a>"
     },
     {
-      "title": "G1deon: Towards God [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:45F8562AAC8F33B9BED85BC7726C53662EA1E04B&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2016-09-26T12:00:00Z",
-      "fileSize": "1.29 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3636874\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Gabelstapler 2014 [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:113536853B070F1AA14F156C40773E07C5E7212D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -59274,15 +59040,6 @@
       "uploadDate": "2019-05-15T12:00:00Z",
       "fileSize": "282.9 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=696601\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Gamedec [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EC7D1F6F7E9F706336047AB6D1CE8B9A1A5378FD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-08-16T12:00:00Z",
-      "fileSize": "10.38 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6110210\">RuTracker Topic Page</a>"
     },
     {
       "title": "GamersGoMakers (v1.1.7) [Portable]",
@@ -60635,15 +60392,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5596014\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Ghostrunner (v0.42441.444) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:64ECA4286D8FB387B937FB5E0B0B6890EA20B0EF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-18T12:00:00Z",
-      "fileSize": "20.18 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5960790\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Ghostrunner 2 (v0.42294.589) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:CF752309E7DC4046B92EE4D7F4CE589CDE53E5F0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -60750,6 +60498,15 @@
       "uploadDate": "2024-05-29T12:00:00Z",
       "fileSize": "280.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5871185\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Gift [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:FCC3233C25BD553AA6ABAE3495189EE10622F2A5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2024-09-12T12:00:00Z",
+      "fileSize": "965.2 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6524854\">RuTracker Topic Page</a>"
     },
     {
       "title": "GigaBash (v1.9.0) [Portable]",
@@ -62246,13 +62003,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5169929\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Gothic 1 Remake (v1.1) [Portable]",
+      "title": "Gothic 1 Remake [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:F62DA40763305426682D8A91BF36D18AD503F31E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:62093087F7948C24BE78BFE62A03F502D02A5EBE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2026-11-05T12:00:00Z",
-      "fileSize": "31.53 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6867226\">RuTracker Topic Page</a>"
+      "fileSize": "36.67 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6867205\">RuTracker Topic Page</a>"
     },
     {
       "title": "Gothic 2 [Portable]",
@@ -62786,24 +62543,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5546055\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Gratuitous Space Battles Collector's Edition (v1.59) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:519291DA97BEB1E8F2CA9D4CF521329CCC63D8D2&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2023-04-15T12:00:00Z",
-      "fileSize": "115 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4104144\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Gratuitous Tank Battles (v1.012) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:795D6D75B134528B0BF70A3B1C0C2758F3CEB3F4&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-08-03T12:00:00Z",
-      "fileSize": "76.4 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4066938\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Grave Keeper [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7F8E94E6F06A87AFD0090C82FFFA4D4A93367CEE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -62946,15 +62685,6 @@
       "uploadDate": "2022-03-22T12:00:00Z",
       "fileSize": "2.79 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5577410\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Gray Matter [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:967E4BF2B9B8E75E683EEA8CA1793E239CB51944&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-10-07T12:00:00Z",
-      "fileSize": "4.95 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4052366\">RuTracker Topic Page</a>"
     },
     {
       "title": "Gray Skies, Dark Waters [Portable]",
@@ -65081,6 +64811,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5450022\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Halcyon Days at Taoyuan [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:755D991C4E4796B63E61800FB5DDBD34EDAB73D9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-02-02T12:00:00Z",
+      "fileSize": "187.5 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6808930\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Half Billion: Love Choice (v1.0) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7557047143A2AD785C79044B0D599C5D7929AEA6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -65333,13 +65072,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=702176\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Hallowed Legends: Samhain Collector's Edition [Portable]",
+      "title": "Hallowed Legends. Samhain. Collector's Edition [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:5E86BF460CAFD63938BBE0AE2D107A03A89F50C1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:0C0F59A60E067887AC45EA542E54FB0193B7F1BD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2021-12-08T12:00:00Z",
-      "fileSize": "851.5 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6147801\">RuTracker Topic Page</a>"
+      "fileSize": "847.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6147636\">RuTracker Topic Page</a>"
     },
     {
       "title": "Hallowed Legends: Ship of Bones Collector's Edition [Portable]",
@@ -70006,11 +69745,11 @@
     {
       "title": "Hoa (v1.03) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:C2D4A546645A6F03D98FBF5CFF0CE160310F637A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:C69C98EEAC975C6B290CEC36BBA075EB5A7083AE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2025-05-12T12:00:00Z",
+      "uploadDate": "2021-08-24T12:00:00Z",
       "fileSize": "1.39 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6099651\">RuTracker Topic Page</a>"
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6099885\">RuTracker Topic Page</a>"
     },
     {
       "title": "Hoard (v2120.1231.10.42) [Portable]",
@@ -72452,6 +72191,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6352314\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Hypogea [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:EB843057492F21F9675D300A64D573FCC22A6625&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-02-14T12:00:00Z",
+      "fileSize": "272.6 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6776248\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Hytale (v0.7.2) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:A0A70DA3659FAD9E758256702F24871472B204D8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -73174,11 +72922,11 @@
     {
       "title": "Icewind Dale: Enhanced Edition (v2.6.6.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:6996CBB6F6DFD1C4201D767468C95001DA414B83&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:86618ACD9277ECC22FF769064EB9A23FFB8E0384&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2023-12-14T12:00:00Z",
-      "fileSize": "2.12 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5523488\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-06-04T12:00:00Z",
+      "fileSize": "1.73 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6641522\">RuTracker Topic Page</a>"
     },
     {
       "title": "Icey [Portable]",
@@ -75548,15 +75296,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6899648\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Iron Brigade (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:E0A0F2DC4327012810041918BCE4F5289ABC329C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-01-12T12:00:00Z",
-      "fileSize": "2.23 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4153635\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Iron Core: Mech Survivor (v3.0.8) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:7E15B5E2774B58F2E6B8493DA49FD7EE734ED3A2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -76259,13 +75998,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6240244\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Jagged Alliance 3 (v1.5.2) [Portable]",
+      "title": "Jagged Alliance 3 (v1.5.1.366685) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:03E3AC39E895B8341582414C1C545B47AAB551C2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:E1A6A6000B02152803907BCB0E57B3F603B33BE9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-08-24T12:00:00Z",
-      "fileSize": "19.85 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6385997\">RuTracker Topic Page</a>"
+      "uploadDate": "2025-06-22T12:00:00Z",
+      "fileSize": "15.53 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6385983\">RuTracker Topic Page</a>"
     },
     {
       "title": "Jagged Alliance [Portable]",
@@ -77611,11 +77350,11 @@
     {
       "title": "Jurassic Park: The Game [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:E6E8D9CF79B6F42ED90BCB0887DCD6993FAB19CA&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:0E7220101EB29824CD46D302EAA65427E4019D95&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-08-13T12:00:00Z",
-      "fileSize": "2.57 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3873624\">RuTracker Topic Page</a>"
+      "uploadDate": "2017-08-11T12:00:00Z",
+      "fileSize": "2.59 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3821962\">RuTracker Topic Page</a>"
     },
     {
       "title": "Jurassic World Evolution 2 (v1.3.1) [Portable]",
@@ -78115,11 +77854,11 @@
     {
       "title": "Kao the Kangaroo: Round 2 [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:34D84B2B6A3E63926F8D362BC112C50D8C207D5A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:526BFD9D166F180D61E1AA9B1AF5272C384188B7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2022-08-18T12:00:00Z",
-      "fileSize": "946.2 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5740133\">RuTracker Topic Page</a>"
+      "fileSize": "605.8 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5735332\">RuTracker Topic Page</a>"
     },
     {
       "title": "Kapia (v1.263) [Portable]",
@@ -79940,15 +79679,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3633051\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Knightmare's Quake II : Quake II + Mission Pack I: The Reckoning + Mission Pack 2: Ground Zero [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:06AB22DF0EA0C9C6CBF6325A42FFE9BFBB38BCBD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2019-12-15T12:00:00Z",
-      "fileSize": "607.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5214738\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Knights & Guns [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:CAADC894DFD58C5E45C4A458B42BE93326C870B1&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -80012,13 +79742,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4599338\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Knights of Honor II: Sovereign (v2.1) [Portable]",
+      "title": "Knights of Honor II: Sovereign (v1.8) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:3A22DA67F1409CC65F4F8D453C000BA8F0307FA2&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:1DA639C99BA2099A10FED695A5688D8BFF788C23&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-26T12:00:00Z",
-      "fileSize": "8.49 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6293004\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-12T12:00:00Z",
+      "fileSize": "12.9 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6921911\">RuTracker Topic Page</a>"
     },
     {
       "title": "Knights of Pen and Paper (v2.11) [Portable]",
@@ -80469,24 +80199,6 @@
       "uploadDate": "2012-12-28T12:00:00Z",
       "fileSize": "27.8 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1724819\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Krater Collector's Edition [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EA9C73D57FFF65BFB7EF108B324D4CB9145B990A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2014-09-28T12:00:00Z",
-      "fileSize": "1.74 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4089257\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Krater Shadows over Solside (v1.1.03) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:2B0E7089F448D134FC9AE6F07860908F2675FF4B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2014-09-28T12:00:00Z",
-      "fileSize": "1.36 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4103197\">RuTracker Topic Page</a>"
     },
     {
       "title": "Krater: Shadows over Solside - Collector's Edition [Portable]",
@@ -81695,13 +81407,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6585133\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Last Train Home (v2.0.1) [Portable]",
+      "title": "Last Train Home (v1.0.0.32413) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:268EED1DFC9C401B9369BE60BC30C70729E80153&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:F86CF11700CE9893D0F5C8F5919C45ECF56F9269&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-04-26T12:00:00Z",
-      "fileSize": "23.64 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6448745\">RuTracker Topic Page</a>"
+      "uploadDate": "2024-05-07T12:00:00Z",
+      "fileSize": "23.28 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6448551\">RuTracker Topic Page</a>"
     },
     {
       "title": "Last Warrior [Portable]",
@@ -82908,15 +82620,6 @@
       "uploadDate": "2026-04-13T12:00:00Z",
       "fileSize": "8.44 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6406431\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "LEMURIA (v1.2.5) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:083832596EAA6EDBFA6F3326BF5A407426B16CDF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-10-29T12:00:00Z",
-      "fileSize": "13.92 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6216211\">RuTracker Topic Page</a>"
     },
     {
       "title": "Len's Island (v1.0.13) [Portable]",
@@ -84802,11 +84505,11 @@
     {
       "title": "Lode Runner (v1.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:BD4F8E28C79A0581DDAACB325AEC8A1494BAC1BD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:76AC1111A33DA502F84BABEBADBBB37F93399F7D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2025-02-01T12:00:00Z",
-      "fileSize": "3.3 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5442121\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-07-09T12:00:00Z",
+      "fileSize": "71.4 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5885455\">RuTracker Topic Page</a>"
     },
     {
       "title": "Lode Runner 2 [Portable]",
@@ -86652,6 +86355,15 @@
       "uploadDate": "2026-08-07T12:00:00Z",
       "fileSize": "1.34 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5581245\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Lumines: Puzzle Fusion - Advance Pack (v1.0) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:FAA206DA3D30530D35C6B00879BD2F46EF9BAB2B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2011-10-27T12:00:00Z",
+      "fileSize": "210.1 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=906237\">RuTracker Topic Page</a>"
     },
     {
       "title": "Luminesca (v0.2.1) [Portable]",
@@ -88796,15 +88508,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6894094\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Maneater [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:2BB188560BEE0C84641D543DF7B2861B2C2A198E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-08-18T12:00:00Z",
-      "fileSize": "17.05 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6894366\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Mango Plumo's Weather Adventure [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:E0D70328E69F8CA30DE4E954FB1D79389CBAD6E8&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -90542,15 +90245,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6849238\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Medieval Dynasty (v2.7.0.4) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:2A247F2FD6D3B1C90D83E9F3F1B0ED4F23BA6D31&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-09T12:00:00Z",
-      "fileSize": "13.75 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5952911\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Medieval Engineers [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:FB6389AED27C0BBD8CA76EBA8DB85A3C06D5740C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -90702,15 +90396,6 @@
       "uploadDate": "2023-09-18T12:00:00Z",
       "fileSize": "1.25 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6392031\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Mega Man 11 (v1.0.0.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:7160550A916FC32B117D2E3E8D5FDD025ADC4571&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2020-12-14T12:00:00Z",
-      "fileSize": "700.4 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5640827\">RuTracker Topic Page</a>"
     },
     {
       "title": "Mega Man Battle Network Legacy Collection Vol. 2 (v1.0.0.4) [Portable]",
@@ -99686,15 +99371,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5778319\">RuTracker Topic Page</a>"
     },
     {
-      "title": "NASCAR Heat 5 [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:3C7F758551E4D6956B9260DC96A9E61FCF5C215A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-06-01T12:00:00Z",
-      "fileSize": "13.5 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5916709\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Nascar Legends [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:BCD04CC6BB0878029C59C9A677D0240F480CD70A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -100035,24 +99711,6 @@
       "uploadDate": "2022-08-16T12:00:00Z",
       "fileSize": "75.7 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5774641\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "NBA 2K22 (v1.11) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:44C3E9EC44A9DD7D8EFE4BE5901E430960FE6BCD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-01-06T12:00:00Z",
-      "fileSize": "99.88 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6197843\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "NBA 2K23 [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6048BB036083503A3EE7778426693A6B61387FB3&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-10-22T12:00:00Z",
-      "fileSize": "131.65 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6259418\">RuTracker Topic Page</a>"
     },
     {
       "title": "NBA 2K27 (v1.4) [Portable]",
@@ -103117,11 +102775,11 @@
     {
       "title": "Nobunaga's Ambition: Awakening (v1.1.6) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:30B9250F00B280830159DC0D4935EEE5BCEB4E0A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:1946453A6C6695ECFDDC9D92FF2CA9DDEF6C379A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2025-06-06T12:00:00Z",
-      "fileSize": "21.6 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6388381\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-01-09T12:00:00Z",
+      "fileSize": "27.03 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6703069\">RuTracker Topic Page</a>"
     },
     {
       "title": "Nobunaga's Ambition: Sphere of Influence - Ascension [Portable]",
@@ -103540,11 +103198,11 @@
     {
       "title": "Northmark: Hour of the Wolf (v1.2) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:24BA59BAABD0209CEF40F12A7AFE68D3B02706CD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:65C17383D75F48E9358EEE3A0073C04A742295F5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2023-09-10T12:00:00Z",
-      "fileSize": "39.5 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5297537\">RuTracker Topic Page</a>"
+      "uploadDate": "2015-09-17T12:00:00Z",
+      "fileSize": "42.8 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4818467\">RuTracker Topic Page</a>"
     },
     {
       "title": "Nosferatu: The Wrath of Malachi [Portable]",
@@ -104382,15 +104040,6 @@
       "uploadDate": "2018-04-02T12:00:00Z",
       "fileSize": "133.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5542744\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Of Orcs and Men (v1.0.0.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:8FD2D80091E53C32B53CB401516F2F22D03A7F9D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-13T12:00:00Z",
-      "fileSize": "3.71 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6189798\">RuTracker Topic Page</a>"
     },
     {
       "title": "of the Devil [Portable]",
@@ -107210,6 +106859,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6256617\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Overpass 2 [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:5BAFA16BFA60F3320AB23208F7C064634BE13594&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2023-10-08T12:00:00Z",
+      "fileSize": "16.31 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6416469\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "OVERPASS [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:D1CFA6202986ED9A0ADEE4C1C235912BB4082520&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -108065,15 +107723,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4608040\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Paradise Lost [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:9199A6D9AB7511B0AF0D20ED2DB0EE8DDC14E660&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-10T12:00:00Z",
-      "fileSize": "17.93 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6030230\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Paradise Marsh [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:0FEF3F4B58AFFFA56401E6D4764A3323EC3BED95&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -108713,6 +108362,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6007704\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Path to Mnemosyne (v1.0) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:8E2B04C1D707856DEB59156092AB50F27351ECF2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2018-10-09T12:00:00Z",
+      "fileSize": "83 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5625965\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Pathfinder Adventures (v1.2.6.4) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:39C4D580EF6E6E2A8DA31EF2AE8D322161FD85F0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -108729,15 +108387,6 @@
       "uploadDate": "2024-07-19T12:00:00Z",
       "fileSize": "1.66 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6510056\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Pathfinder: Wrath of the Righteous (v2.7.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:20C289BF601E0C67E3052557E45EDED9F3FE12E7&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-03T12:00:00Z",
-      "fileSize": "43.64 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6104067\">RuTracker Topic Page</a>"
     },
     {
       "title": "Pathfinder: Wrath of the Righteous - Enhanced Edition (v2.7.0) [Portable]",
@@ -108785,13 +108434,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5735463\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Pathologic 3 (v1.0.10) [Portable]",
+      "title": "Pathologic 3 [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:4A33AC757BE8739DCC22D2D0B7C054563A41A993&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:C41C40D62F820B08504D8C1CCE08050A48844DED&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-01T12:00:00Z",
-      "fileSize": "31.36 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6800602\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-31T12:00:00Z",
+      "fileSize": "41.59 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6799837\">RuTracker Topic Page</a>"
     },
     {
       "title": "Pathologic: The Marble Nest (v1.1) [Portable]",
@@ -109977,7 +109626,7 @@
       "uris": [
         "magnet:?xt=urn:btih:F71F1E506404B7759112BA519B019DF9624C2AD3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-29T12:00:00Z",
+      "uploadDate": "2026-11-05T12:00:00Z",
       "fileSize": "28.93 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6652239\">RuTracker Topic Page</a>"
     },
@@ -110133,6 +109782,15 @@
       "uploadDate": "2025-09-01T12:00:00Z",
       "fileSize": "6.98 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6734194\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Photomaly [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:2AB5D732CF5890D4F1CF52235322D83274ED9AF9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-08-03T12:00:00Z",
+      "fileSize": "903.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6885399\">RuTracker Topic Page</a>"
     },
     {
       "title": "Photon Engineer (v1.3.10) [Portable]",
@@ -111242,15 +110900,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6876338\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Planets Under Attack (v1.0.496) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:86F9E25E73C1C3F8F9D3502FD2A825784BBE88EE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2021-08-04T12:00:00Z",
-      "fileSize": "280.5 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4341400\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Plank Builders [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:373AB47D1110CA8A72DE092A0CEB932DF94E7BEB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -111330,15 +110979,6 @@
       "uploadDate": "2024-04-25T12:00:00Z",
       "fileSize": "16.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1832305\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Plastic Battlegrounds [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:3E13292A13548AB3D46BB23ECCD635771C5E4569&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-09-01T12:00:00Z",
-      "fileSize": "2.64 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6739195\">RuTracker Topic Page</a>"
     },
     {
       "title": "Plastiland [Portable]",
@@ -111798,15 +111438,6 @@
       "uploadDate": "2012-05-02T12:00:00Z",
       "fileSize": "463.1 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2946351\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Pole Position 2012 (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:63EF4C67BB5E404A27485992A1BFAD8332E3BFD7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-04-06T12:00:00Z",
-      "fileSize": "1.12 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4032444\">RuTracker Topic Page</a>"
     },
     {
       "title": "Police Chief Simulator (v38) [Portable]",
@@ -112473,15 +112104,6 @@
       "uploadDate": "2018-01-29T12:00:00Z",
       "fileSize": "691.6 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4029823\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Postal 4: No Regerts (v1.6.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:557A149FB7205D1CA98E6B5D16C9AA57CC2465F5&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-07-04T12:00:00Z",
-      "fileSize": "18.81 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6205209\">RuTracker Topic Page</a>"
     },
     {
       "title": "Postal [Portable]",
@@ -113429,6 +113051,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6155750\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Pro Basketball Manager 2024 (v1.22) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:581440620A40128E7FE3D60020F7A60A2FF79C1A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-12-27T12:00:00Z",
+      "fileSize": "2.53 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6445187\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Pro Beach Soccer [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:78BA91BB723E8539B377A4FBCA65AA164A2189AD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -114264,15 +113895,6 @@
       "uploadDate": "2026-05-06T12:00:00Z",
       "fileSize": "14.23 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6854452\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Project Warlock II (v1.0.1.27) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:8D07EDD5A103E9EFFB872BC3235D86A32C42987B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-01-17T12:00:00Z",
-      "fileSize": "3.72 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6224503\">RuTracker Topic Page</a>"
     },
     {
       "title": "Project Wingman (v2.1.0) [Portable]",
@@ -115643,15 +115265,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1546304\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Quake DarkPlaces: Quake + Mission Pack No. I: Scourge of Armagon + Mission Pack No. II: Dissolution of Eternity + Dimension of the Past [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:BF4353BF86F435C0F34B6CB27BC1BB442AF4125D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-31T12:00:00Z",
-      "fileSize": "1.58 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5174335\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Quake II (v3.05) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:382188C4021129B99450CDC7307D872FC33E3DD4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -115841,13 +115454,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4652684\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Quarantine (v1.0.0.2) [Portable]",
+      "title": "Quarantine (v0.3.4) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:39B1F06B4A7274CDDC441EF2CB0EB164F3EF9B6A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:158DBCDA2ABDB209FFAD47775F22A8ECA3DC4F5F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2019-12-29T12:00:00Z",
-      "fileSize": "1.46 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5362688\">RuTracker Topic Page</a>"
+      "uploadDate": "2017-03-05T12:00:00Z",
+      "fileSize": "8.8 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3359169\">RuTracker Topic Page</a>"
     },
     {
       "title": "Quarantine II: Road Warrior [Portable]",
@@ -117812,13 +117425,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6824691\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Reanimal (v1.9) [Portable]",
+      "title": "Reanimal [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:DE1C765C05AA4ED596B7FC65509F191320DC1695&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:BCBA9D6C0D57C31E55682CEADAE8F2CDB3300741&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-24T12:00:00Z",
-      "fileSize": "14.49 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6816571\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-08-31T12:00:00Z",
+      "fileSize": "15.94 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6816483\">RuTracker Topic Page</a>"
     },
     {
       "title": "Reaper - Tale of a Pale Swordsman (v1.3.7.108) [Portable]",
@@ -119605,11 +119218,11 @@
     {
       "title": "Reshaping Mars (v1.1.230421.1) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:BA0A43B886656565A35B043F535922AB7925F685&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:8F1D1C9E77AAC4B5AC7CF9E47D0ECA460EB994D2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2023-04-25T12:00:00Z",
-      "fileSize": "3.41 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6346247\">RuTracker Topic Page</a>"
+      "uploadDate": "2023-09-20T12:00:00Z",
+      "fileSize": "2.28 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6355785\">RuTracker Topic Page</a>"
     },
     {
       "title": "Resident Evil 0 - HD Remaster (v1.0) [Portable]",
@@ -121680,15 +121293,6 @@
       "uploadDate": "2024-05-24T12:00:00Z",
       "fileSize": "11.57 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6531257\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Road 96 (v1.04) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:D0BF07E1A49AFF27D07D5CD7BA11E4A4E917E96D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-06-20T12:00:00Z",
-      "fileSize": "9.36 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6096202\">RuTracker Topic Page</a>"
     },
     {
       "title": "Road Construction Simulator [Portable]",
@@ -125464,11 +125068,11 @@
     {
       "title": "Save Halloween: City of Witches [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:95B587F37CD4104B866BAC567B865715BF6E4F4D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:101D9C2EB018A7ED5A118D4717275A51D5BD11F7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2015-10-16T12:00:00Z",
-      "fileSize": "232.8 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5097596\">RuTracker Topic Page</a>"
+      "uploadDate": "2023-10-30T12:00:00Z",
+      "fileSize": "231.4 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5105253\">RuTracker Topic Page</a>"
     },
     {
       "title": "Save Home [Portable]",
@@ -127640,15 +127244,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6902460\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Serious Sam: Siberian Mayhem (v1.07) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:DCB3E59C86A3F9267624AAF3D31F6FE9DA4E9B3B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-08-29T12:00:00Z",
-      "fileSize": "32.48 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6169645\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Serious Sam: The First Encounter (v1.0) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:62E02EB4A92C7A31D48685C1391D58E83E4484C0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -128054,15 +127649,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6580285\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Shadow Hush (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:4949E1A70744E0BBB3210414321B8C59CAEE839D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-06-15T12:00:00Z",
-      "fileSize": "16.79 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6540561\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Shadow Labyrinth (v1.1.0) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:44B5A8AA4F983128B7CE46C9E688118693E970C6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -128178,15 +127764,6 @@
       "uploadDate": "2026-08-13T12:00:00Z",
       "fileSize": "850.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6744899\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Shadow Warrior 3 (v1.06) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:447C38EC8DDF6A3C1A4C5A896997B5554D41EFB0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-09-15T12:00:00Z",
-      "fileSize": "22.69 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6185707\">RuTracker Topic Page</a>"
     },
     {
       "title": "Shadow Warrior [Portable]",
@@ -128520,15 +128097,6 @@
       "uploadDate": "2024-04-18T12:00:00Z",
       "fileSize": "2.81 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6483661\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Shank 2 (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:162F0A3806C5CB6D4A61A54E6F91704BBABAA629&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2012-12-01T12:00:00Z",
-      "fileSize": "1.34 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3935291\">RuTracker Topic Page</a>"
     },
     {
       "title": "Shantae Advance: Risky Revolution [Portable]",
@@ -128882,13 +128450,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6776246\">RuTracker Topic Page</a>"
     },
     {
-      "title": "ShellShock: Nam '67 (v1.0) [Portable]",
+      "title": "Shellshock: Nam '67 (v1.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:6956A0080AF59D0E2F7E87AEF0569C7BE7420C02&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:3CAE1F85FA2D19CFFE2BC08646464C408BE6A56D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2023-03-04T12:00:00Z",
-      "fileSize": "1.6 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6170177\">RuTracker Topic Page</a>"
+      "uploadDate": "2021-11-26T12:00:00Z",
+      "fileSize": "1.35 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5728335\">RuTracker Topic Page</a>"
     },
     {
       "title": "Shelter Manager (v0.4.0) [Portable]",
@@ -130241,13 +129809,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6286948\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Silent Hill 3 (v1.0) [Portable]",
+      "title": "Silent Hill 3 (v1.1) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:C89507FD9B5413146AA88DA9C265C7C5E1CA0875&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:B61D969DAFE9BDA1773B85846643FE61B7C24916&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2025-03-04T12:00:00Z",
-      "fileSize": "3.09 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6371821\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-05T12:00:00Z",
+      "fileSize": "4.36 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5711865\">RuTracker Topic Page</a>"
     },
     {
       "title": "Silent Hill 4: The Room (v1.0) [Portable]",
@@ -130320,15 +129888,6 @@
       "uploadDate": "2024-01-07T12:00:00Z",
       "fileSize": "1.42 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5673516\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Silent Hunter 5: Battle of the Atlantic (v1.2.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:3F68E4CF3AF36F29F2B13C53EAEEC8D7104C56D6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-09-09T12:00:00Z",
-      "fileSize": "4.01 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6659517\">RuTracker Topic Page</a>"
     },
     {
       "title": "Silent Nights 2: Childrens Orchestra Collector's Edition [Portable]",
@@ -134651,15 +134210,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6420890\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Space Xonix (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:416AE2F3C991106B383398B3207A4B7A21E71ACD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-01-18T12:00:00Z",
-      "fileSize": "30.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6191200\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Spacebase Startopia - Extended Edition (v1.4.2) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:42B2D3A582F1DACFD51D1558905A839A66717F71&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -135081,15 +134631,6 @@
       "uploadDate": "2023-03-02T12:00:00Z",
       "fileSize": "2.41 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6043874\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "SpellForce 2 Faith in Destiny [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:04B47E66A6436968917B71BD587ADCDFDEAF9E37&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-01-22T12:00:00Z",
-      "fileSize": "2.53 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4099814\">RuTracker Topic Page</a>"
     },
     {
       "title": "SpellForce 3 [Portable]",
@@ -136343,6 +135884,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6870644\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Squirreled Away [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:596EDF6E1F1C9E9B81C2E5CBE126B72E4D2AAB4C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-04-26T12:00:00Z",
+      "fileSize": "1.27 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6669933\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Squishy the Suicidal Pig (v1.0.0.6) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:148BA04D673412F1169AE6D6C739F545A495BF0A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -136359,15 +135909,6 @@
       "uploadDate": "2026-03-30T12:00:00Z",
       "fileSize": "1.36 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3333608\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Stacking [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:453D2D47B357F86FF87D1D689671FC6EEDF601EB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2018-03-08T12:00:00Z",
-      "fileSize": "1.34 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4056336\">RuTracker Topic Page</a>"
     },
     {
       "title": "Stacklands (v1.5.0.21) [Portable]",
@@ -137133,15 +136674,6 @@
       "uploadDate": "2016-04-30T12:00:00Z",
       "fileSize": "710.2 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=670921\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Star Wars: The Force Unleashed (v1.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:AE914A23490906AD5B5B8B69AD1BDA0B9A08956E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-07-12T12:00:00Z",
-      "fileSize": "12.37 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5217537\">RuTracker Topic Page</a>"
     },
     {
       "title": "Star Wars: The Force Unleashed II (v1.1) [Portable]",
@@ -137916,15 +137448,6 @@
       "uploadDate": "2026-02-25T12:00:00Z",
       "fileSize": "38.77 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6682034\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Steel Storm Burning Retribution (v2.00.02965) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:D2835CA47C74AB51ACF6EE44B93669341EAA899C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2013-07-03T12:00:00Z",
-      "fileSize": "730.3 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3863769\">RuTracker Topic Page</a>"
     },
     {
       "title": "Steel Strider [Portable]",
@@ -139419,15 +138942,6 @@
       "uploadDate": "2026-07-05T12:00:00Z",
       "fileSize": "23.4 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6818478\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Styx: Shards of Darkness (v1.05) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EA0DED9CEF365EAE3ADE0D8F2FCC3D377399218E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-06-13T12:00:00Z",
-      "fileSize": "10.95 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6189918\">RuTracker Topic Page</a>"
     },
     {
       "title": "Sub Command: Akula Seawolf 688 [Portable]",
@@ -141070,11 +140584,11 @@
     {
       "title": "Supreme Commander - Forged Alliance (v1.5.3603) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:65C2CD9881C40248EC9AE1B54BC8BF5EA44B12CE&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:F72A4DDF4829728B5101278D68C118256CAB39BC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-07-31T12:00:00Z",
-      "fileSize": "3.33 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6095629\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-14T12:00:00Z",
+      "fileSize": "3.27 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5428930\">RuTracker Topic Page</a>"
     },
     {
       "title": "Supreme League of Patriots Issue 1: A Patriot Is Born [Portable]",
@@ -144542,15 +144056,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6572092\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Terrorhedron (v1.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:E8B1E2E728B9A2149C44009FEF129A27022C8128&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2015-09-15T12:00:00Z",
-      "fileSize": "82.6 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3928011\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Terrorist Takedown 3 [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:C287610A36C83D594D528985F80CC471230A47DD&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -145579,11 +145084,11 @@
     {
       "title": "The Blood of Dawnwalker (v1.1.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:C0061251F851C9D30BE377A886FB3AE9A2FBE74B&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:1345F63DFB522307AD5DFAC83A402DDEF62ABF22&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-02T12:00:00Z",
-      "fileSize": "51.69 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6903391\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-11-05T12:00:00Z",
+      "fileSize": "55.43 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6903361\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Bloodline (v5.51) [Portable]",
@@ -145674,15 +145179,6 @@
       "uploadDate": "2010-11-14T12:00:00Z",
       "fileSize": "637.4 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=280703\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "The Book of Unwritten Tales - Die Vieh Chroniken (v1.03) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6811C5A36EA45126A373377CDDBE4C84CC4BBA23&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2016-02-02T12:00:00Z",
-      "fileSize": "1.62 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3952798\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Book of Unwritten Tales 2 (v1.0.3.132) [Portable]",
@@ -145980,15 +145476,6 @@
       "uploadDate": "2024-04-26T12:00:00Z",
       "fileSize": "1.1 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6258005\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "The Chant (v1.5) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:EBB858B13AC3CD122229A141290C8787D627EAC6&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-11-26T12:00:00Z",
-      "fileSize": "32.79 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6440878\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Charlton's Fashion Academy [Portable]",
@@ -147206,15 +146693,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6849085\">RuTracker Topic Page</a>"
     },
     {
-      "title": "The Expendables 2 Videogame [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:93894AD2FF8415AD7CBC9B4B3F128E5D1F1B8B07&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2015-04-14T12:00:00Z",
-      "fileSize": "1.3 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4157004\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "The Expression Amrilato [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:AA518B7DECFC22001DBB58617F287282F47AB89B&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -147789,15 +147267,6 @@
       "uploadDate": "2025-03-16T12:00:00Z",
       "fileSize": "2.27 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6619117\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "The Gift [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:1C8DCA2C07E5219DFE254474FE6CA001B63801C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2021-10-07T12:00:00Z",
-      "fileSize": "569.8 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4233864\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Girl and the Robot (v1.005) [Portable]",
@@ -149312,15 +148781,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5246678\">RuTracker Topic Page</a>"
     },
     {
-      "title": "The Last Farmer (v1.0.11) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:6A1FED149976931274B27F409B177E4F3D6A4FFF&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-03-18T12:00:00Z",
-      "fileSize": "7.19 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6651969\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "The Last Flame [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:BFD9D53121703855AEF37A439E90F282E399E1F9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -149548,11 +149008,11 @@
     {
       "title": "The Legend of Heroes: Trails beyond the Horizon (v1.0.6) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:33557D0301CF2B8BC050B1637F32FE6350E82562&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:CEEFEB0F503B85351C6B5CCA452D7E926B5FDC9F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-06-27T12:00:00Z",
-      "fileSize": "25.2 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6803209\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-08-26T12:00:00Z",
+      "fileSize": "25.28 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6802841\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Legend of Khiimori (v0.12.3) [Portable]",
@@ -150237,15 +149697,6 @@
       "uploadDate": "2026-10-10T12:00:00Z",
       "fileSize": "161.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1664022\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "The Medium (v1.0.184) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:8D29F980234E9484D07123CE74DAB4AC03651BB1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-08-23T12:00:00Z",
-      "fileSize": "41.15 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6003299\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Mercury Man [Portable]",
@@ -151328,13 +150779,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6113660\">RuTracker Topic Page</a>"
     },
     {
-      "title": "The Riftbreaker (v2.0.58485) [Portable]",
+      "title": "The Riftbreaker [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:7D775848DCC86BA7C0611C8E773DD46C7B0ADC25&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:7B8895A50B981878F54F448C9573203363216DF1&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-08-07T12:00:00Z",
-      "fileSize": "13.83 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6122678\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-04-29T12:00:00Z",
+      "fileSize": "14.83 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6393041\">RuTracker Topic Page</a>"
     },
     {
       "title": "The Rise of the Golden Idol (v1.0.2) [Portable]",
@@ -154118,6 +153569,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6440245\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Thief of Thieves: Season One [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:A36E8D05DDDA1A7AFCF561B0167F30B1848A8EDB&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2023-07-25T12:00:00Z",
+      "fileSize": "6.31 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5588399\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Thief Simulator (v1.8) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:C4FEF441D48F73B11CE6A0702A7B4AA1C8C3F746&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -154197,15 +153657,6 @@
       "uploadDate": "2026-02-02T12:00:00Z",
       "fileSize": "74.8 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6786847\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "This Bed We Made (v1.0.2) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:21E2E0D85460B991AE3B717F3255E9DD5AC4AD53&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-09-13T12:00:00Z",
-      "fileSize": "5.04 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6455895\">RuTracker Topic Page</a>"
     },
     {
       "title": "This Grand Life 2 [Portable]",
@@ -156755,15 +156206,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4170429\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Total War: Pharaoh Dynasties (v2.1.6) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:E93852239669A40445C7FC1677F4DC07D6A7443D&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-06T12:00:00Z",
-      "fileSize": "53.08 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6815588\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Total War: ROME REMASTERED (v2.0.5) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:68B2D236B9A0F677D06907EFD98CBDBB5F1F20DE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -159140,15 +158582,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5173169\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Tron: Evolution [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:309DF3ECB34FDA1129027ED3B0B66DA8056A819E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-09-27T12:00:00Z",
-      "fileSize": "3.73 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4725099\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Trophy Hunting 5 [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:96E3B81F11E96645D41BBA06CDAD85FDCC9A1A00&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -159867,15 +159300,6 @@
       "uploadDate": "2016-10-18T12:00:00Z",
       "fileSize": "159.8 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4677678\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "TV189 (v1.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:B96771B5A697ED8A35B72629C4D3DC94BB70469A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-08-11T12:00:00Z",
-      "fileSize": "2.99 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6245385\">RuTracker Topic Page</a>"
     },
     {
       "title": "Twelve Minutes (v6131.20211112.15.38) [Portable]",
@@ -160951,11 +160375,11 @@
     {
       "title": "Uncharted: Legacy of Thieves Collection (v1.4.21058) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:D56D8FC6CC50038201EDDEFAC8D89D9C7EB626C0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:46DE3F61D7678CE1B3206E484AB6FC0F952F4BC4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-13T12:00:00Z",
-      "fileSize": "98.1 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6445181\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-31T12:00:00Z",
+      "fileSize": "124.57 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6272338\">RuTracker Topic Page</a>"
     },
     {
       "title": "Uncle Chop's Rocket Shop (v1.1.0.6092) [Portable]",
@@ -161768,15 +161192,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3723418\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Unstoppable Gorg (v1.0.4.16) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:A2D9E881F80B15A2393B6BACDD8BF001ECE6E756&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2015-12-28T12:00:00Z",
-      "fileSize": "674 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3909268\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Unstoppable: Breakout [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:A1A0FE9015C7D60BC3FCCEF8FBCEA118DB4C8DD3&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -162189,15 +161604,6 @@
       "uploadDate": "2021-11-20T12:00:00Z",
       "fileSize": "705.2 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6025153\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "VA-11 Hall-A: Cyberpunk Bartender Action (v1.2.1.3) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:3BD881B05F9D95785D344538E03B98A859AD46F3&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2023-03-16T12:00:00Z",
-      "fileSize": "199 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5359413\">RuTracker Topic Page</a>"
     },
     {
       "title": "Vacation Adventures. Cruise Director 2 [Portable]",
@@ -162794,15 +162200,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5239417\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Vampire Legends: The True Story of Kisilova (v1.0.38226) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:B9D8E73B761329D5A03BBFD7501E60B47DA7BD82&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2019-03-15T12:00:00Z",
-      "fileSize": "563.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5322995\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Vampire Legends: The True Story of Kisilova Collector's Edition [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:5C77D7AAD04EEE67F370DDDC8A6E1BFF87EB1348&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -162958,11 +162355,11 @@
     {
       "title": "Vampires: Bloodlord Rising (v1.8.0.23068) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:A026F9100525477E7B0EABD1E1BABA72A3C396A3&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:682109FC1BB9B2B6D347437E8918BE8BD60A07A9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-26T12:00:00Z",
-      "fileSize": "15.72 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6809962\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-31T12:00:00Z",
+      "fileSize": "15.88 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6809809\">RuTracker Topic Page</a>"
     },
     {
       "title": "Vampiress: Eternal Duet [Portable]",
@@ -163730,15 +163127,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6275078\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Victoria II: A House Divided (v2.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:240B84997B09796414872435AF137C38A1F604F6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-03-14T12:00:00Z",
-      "fileSize": "317.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3971573\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Victorian Mysteries 2: Yellow Room [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:25010C9F2F80653FE34F9499260CD56838829179&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -164367,15 +163755,6 @@
       "uploadDate": "2022-10-12T12:00:00Z",
       "fileSize": "522.9 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4559552\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Visions of Mana (v1.0.3.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:5625E8BD9E179DC3848A998EF78D38E59BCB12AB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-04-13T12:00:00Z",
-      "fileSize": "37.34 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6653660\">RuTracker Topic Page</a>"
     },
     {
       "title": "Vital Shell [Portable]",
@@ -165665,13 +165044,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5765515\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Warcraft III: Reign of Chaos + The Frozen Throne (v1.07) [Portable]",
+      "title": "Warcraft III: Reign of Chaos + The Frozen Throne (v2.1.4) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:B7B76867139C6FC37A8967285EE6E2E0E5A1C595&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:1B441A830B1E6103F148567FFE6DB5595A504D6F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-28T12:00:00Z",
-      "fileSize": "1.11 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6205505\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-10-16T12:00:00Z",
+      "fileSize": "1.21 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6052213\">RuTracker Topic Page</a>"
     },
     {
       "title": "WarCraft: Orcs & Humans + Warcraft II: Tides of Darknees + Warcraft 2: Beyound the Dark Portal [Portable]",
@@ -165726,24 +165105,6 @@
       "uploadDate": "2014-06-24T12:00:00Z",
       "fileSize": "24.3 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2489211\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Wargame: Airand Battle (v14.03.27.2100001621) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:E744A3C411665BF8E52FE4D73EA2302B2710BE9A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-05-11T12:00:00Z",
-      "fileSize": "9.67 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6215700\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Wargame: European Escalation (v13.03.11.670000732) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:5498DB0BE40F51AE3DC5F6534D2FA4D2248C0BD3&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2023-03-23T12:00:00Z",
-      "fileSize": "8.2 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6215821\">RuTracker Topic Page</a>"
     },
     {
       "title": "Wargame: Red Dragon [Portable]",
@@ -165946,11 +165307,11 @@
     {
       "title": "Warhammer 40,000: Inquisitor - Martyr (v2.9.4) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:D15FDAE953F28074CEDA215A18D51AB32E0F9AFF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:B29CBE701D9E6896A54405B81B4FCB362EE40829&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-20T12:00:00Z",
-      "fileSize": "38.26 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6531886\">RuTracker Topic Page</a>"
+      "uploadDate": "2026-06-27T12:00:00Z",
+      "fileSize": "29.28 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6532205\">RuTracker Topic Page</a>"
     },
     {
       "title": "Warhammer 40,000: Kill Team [Portable]",
@@ -168653,15 +168014,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6772130\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Winter Ember (v1.5.7) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:24B972932BBEB9F4CA62D7DFF36372C60C717363&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2022-09-21T12:00:00Z",
-      "fileSize": "3.6 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6204561\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Winter Magic: Factory [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:0AB0EAC7C7211D419EB3DBF114C6DB8AE5FE49B8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -169742,13 +169094,13 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=448975\">RuTracker Topic Page</a>"
     },
     {
-      "title": "World Gone Sour (v1.0.9.24564) [Portable]",
+      "title": "World Gone Sour (v1.0) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:BBC60BD337E3069987369BFB00EE0EC0CEC621E2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:3BD565B18E708EBFCF09E41B4392993EA374AE93&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2022-09-23T12:00:00Z",
-      "fileSize": "584.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3874255\">RuTracker Topic Page</a>"
+      "uploadDate": "2018-07-19T12:00:00Z",
+      "fileSize": "813.9 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3871570\">RuTracker Topic Page</a>"
     },
     {
       "title": "World Keepers: Last Resort [Portable]",
@@ -170289,15 +169641,6 @@
       "uploadDate": "2025-04-05T12:00:00Z",
       "fileSize": "1.35 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5116585\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Worms Crazy Golf [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:872AEB29915CD15ACE82ABA7C488E09A25DDB778&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2020-12-28T12:00:00Z",
-      "fileSize": "610.9 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3828670\">RuTracker Topic Page</a>"
     },
     {
       "title": "Worms World Party [Portable]",
@@ -171184,11 +170527,11 @@
     {
       "title": "XIII [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:D938AD5FA0B02DBD72F7C240A96E70CB0DF59DDB&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:7C6AC641474E06BD23904E5F6807B43A4BD73216&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
       "uploadDate": "2025-01-16T12:00:00Z",
       "fileSize": "1.3 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6221309\">RuTracker Topic Page</a>"
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6221308\">RuTracker Topic Page</a>"
     },
     {
       "title": "XIII Century: Gold Edition (v1.1.0) [Portable]",
@@ -176769,6 +176112,15 @@
       "uploadDate": "2020-08-21T12:00:00Z",
       "fileSize": "52.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=296352\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Чудо Паззлы. Коллекция для девочек [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:A797558164A92DF4E6CBBDF9C27AEB2B5A547000&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2011-03-05T12:00:00Z",
+      "fileSize": "373.1 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=820053\">RuTracker Topic Page</a>"
     },
     {
       "title": "Чёрная Молния [Portable]",
