@@ -1,0 +1,23 @@
+{
+  "name": "ISO Test",
+  "downloads": [
+    {
+      "title": "Hell Clock (v2.0.0) [ISO] (Scene)",
+      "uris": [
+        "magnet:?xt=urn:btih:52536974BCB023A00838FAEE9A27B4115B92176B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-07-09T09:00:00Z",
+      "fileSize": "1.52 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6880341\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Idol Manager (v1.0.5) [ISO] (Scene)",
+      "uris": [
+        "magnet:?xt=urn:btih:A2D45A53158A9EE7E692134275390AFBA1B8A674&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-01-12T09:00:00Z",
+      "fileSize": "2.26 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6086868\">RuTracker Topic Page</a>"
+    }
+  ]
+}
