@@ -2,6 +2,42 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "We Were Here Tomorrow (v1.2.0, Build 26461871) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/e61j1z834tes",
+        "https://itsfileditchfiles.st/alpha42/3cee551b0cc723b1b3d7/We-Were-Here-Tomorrow-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-10T20:14:07Z",
+      "fileSize": "8.3 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/we-were-here-tomorrow-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/we-were-here-tomorrow-free-download",
+        "base": "We Were Here Tomorrow",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Fatekeeper (v0.1.4.1, Build 26436096) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/bfhilkq75xy3",
+        "https://itsfileditchfiles.st/alpha42/d03f4e1b7f2b6599d2b3/Fatekeeper-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-10T20:09:21Z",
+      "fileSize": "38.1 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/fatekeeper-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/fatekeeper-free-download",
+        "base": "Fatekeeper",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "Phasmophobia (v0.19.1.0, Build 25811160, Build 25327237) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/7ykwwlpu0m7c",
@@ -2237,24 +2273,6 @@
       "debug": {
         "page": "https://steamrip.com/anomalith-free-download",
         "base": "アノマリス／ANOMALITH",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "We Were Here Tomorrow (v1.1.2, Build 26158659) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/ypw58mt88qlt",
-        "https://itsfileditchfiles.st/balpha39/86ecf8896b58ef96a35f/We-Were-Here-Tomorrow-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-10-29T13:35:36Z",
-      "fileSize": "8.2 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/we-were-here-tomorrow-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/we-were-here-tomorrow-free-download",
-        "base": "We Were Here Tomorrow",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -38813,24 +38831,6 @@
       "debug": {
         "page": "https://steamrip.com/hydroneer-free-download-1o",
         "base": "Hydroneer",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Fatekeeper (Build 23529551) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/bcyw3ro0qw3k",
-        "https://gofile.io/d/ssNY4k"
-      ],
-      "uploadDate": "2026-06-02T23:57:42Z",
-      "fileSize": "37.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/fatekeeper-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/fatekeeper-free-download",
-        "base": "Fatekeeper",
         "kind": "main",
         "section": null,
         "notes": [],
