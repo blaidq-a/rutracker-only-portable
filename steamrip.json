@@ -2,6 +2,49 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "Assassin's Creed® Odyssey (v1.5.3) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/9ijwpud2aubn",
+        "https://itsfileditchfiles.st/balpha50/269df8a737fffe4dd310/Assassins-Creed-Odyssey-SteamRIP.com.rar",
+        "https://1fichier.com/?r75kfuj5su7j52qztgmh"
+      ],
+      "uploadDate": "2026-11-19T22:35:19Z",
+      "fileSize": "82 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/assassins-creed-odyssey-free-download-13\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/assassins-creed-odyssey-free-download-13",
+        "base": "Assassin's Creed® Odyssey",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": [
+          {
+            "provider": "GOFILE",
+            "host": "filecrypt",
+            "url": "https://filecrypt.cc/Container/C9D9F3E419"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Farming Simulator 25 (v1.25.1.0, Build 26406045) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha41/4c09d90e8e0cc76a4e96/Farming-Sim-25-SteamRIP.com.rar",
+        "https://bzzhr.to/y5l95u2md86g"
+      ],
+      "uploadDate": "2026-11-19T17:39:50Z",
+      "fileSize": "32 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/farming-simulator-25-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/farming-simulator-25-free-download",
+        "base": "Farming Simulator 25",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "The Blood of Dawnwalker (v1.2.0, Build 26580083) (SteamRIP)",
       "uris": [
         "https://itsfileditchfiles.st/balpha50/354c7d32fa93d8b3634b/The-Blood-of-Dawnwalker-SteamRIP.com.rar"
@@ -2563,23 +2606,6 @@
       "debug": {
         "page": "https://steamrip.com/nomad-drive-free-download",
         "base": "Nomad Drive",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Farming Simulator 25 (v1.25.1.0, Build 26406045) (SteamRIP)",
-      "uris": [
-        "https://itsfileditchfiles.st/alpha41/4c09d90e8e0cc76a4e96/Farming-Sim-25-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-11-05T15:48:08Z",
-      "fileSize": "32 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/farming-simulator-25-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/farming-simulator-25-free-download",
-        "base": "Farming Simulator 25",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -32986,30 +33012,6 @@
         "section": null,
         "notes": [],
         "containers": []
-      }
-    },
-    {
-      "title": "Assassin's Creed® Odyssey (v1.5.3) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/9ijwpud2aubn",
-        "https://1fichier.com/?r75kfuj5su7j52qztgmh"
-      ],
-      "uploadDate": "2026-07-10T21:10:47Z",
-      "fileSize": "82 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/assassins-creed-odyssey-free-download-13\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/assassins-creed-odyssey-free-download-13",
-        "base": "Assassin's Creed® Odyssey",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": [
-          {
-            "provider": "GOFILE",
-            "host": "filecrypt",
-            "url": "https://filecrypt.cc/Container/C9D9F3E419"
-          }
-        ]
       }
     },
     {
