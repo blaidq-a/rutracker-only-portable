@@ -2,6 +2,132 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "Bodycam (Build 26707677) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/3fkxmcatnbyv",
+        "https://itsfileditchfiles.st/alpha44/a15b6d40853e82c3cfdb/Bodycam-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-21T00:54:47Z",
+      "fileSize": "63.6 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/bodycam-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/bodycam-free-download",
+        "base": "Bodycam",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Crusader Kings III (v1.21.0.3, Build 26785313) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/2mgq5k5tg6g9",
+        "https://itsfileditchfiles.st/alpha44/e3a37d24da075da70258/Crusader-Kings3-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-20T22:54:09Z",
+      "fileSize": "9.3 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/crusader-kings-iii-free-download-1j\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/crusader-kings-iii-free-download-1j",
+        "base": "Crusader Kings III",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Europa Universalis V (v1.4.9, Build 26655995) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/733c232f74bbfc648552/Europa-Universalis5-SteamRIP.com.rar",
+        "https://bzzhr.to/7c5o5bxk5i5l"
+      ],
+      "uploadDate": "2026-11-20T22:30:49Z",
+      "fileSize": "8.4 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/europa-universalis-v-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/europa-universalis-v-free-download",
+        "base": "Europa Universalis V",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Goat Simulator 3 (v1.3.0.0, Build 26223281) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/1dd27ad7094089e61876/Goat-Sim-3-SteamRIP.com.rar",
+        "https://bzzhr.to/1ouzk0xvu8al"
+      ],
+      "uploadDate": "2026-11-20T22:23:53Z",
+      "fileSize": "6.7 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/goat-simulator-3-free-download-n1\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/goat-simulator-3-free-download-n1",
+        "base": "Goat Simulator 3",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Slay the Spire 2 (v0.111.1, Build 26655341) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/018021d2e4f5ea37bba7/Slay-the-Spire-2-SteamRIP.com.rar",
+        "https://megadb.net/5c03db375ccbc443"
+      ],
+      "uploadDate": "2026-11-20T21:59:28Z",
+      "fileSize": "1.34 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/slay-the-spire-2-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/slay-the-spire-2-free-download",
+        "base": "Slay the Spire 2",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Hearts of Iron IV (v1.20.0, Build 26733403) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/a569625f082f7a7c39e1/Hearts-of-Iron4-SteamRIP.com.rar",
+        "https://bzzhr.to/xjjz8ud6my8o"
+      ],
+      "uploadDate": "2026-11-20T21:58:44Z",
+      "fileSize": "6.01 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/hearts-of-iron-iv-free-download-l2\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/hearts-of-iron-iv-free-download-l2",
+        "base": "Hearts of Iron IV",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "DREADMOOR (v0.4.49, Build 26547433) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/8bk30dbwogwf",
+        "https://itsfileditchfiles.st/alpha44/aa432b9928a283d6aa9d/DREADMOOR-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-20T21:44:24Z",
+      "fileSize": "5.9 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/dreadmoor-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/dreadmoor-free-download",
+        "base": "DREADMOOR",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "Assassin's Creed® Odyssey (v1.5.3) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/9ijwpud2aubn",
@@ -55,24 +181,6 @@
       "debug": {
         "page": "https://steamrip.com/the-blood-of-dawnwalker-free-download",
         "base": "The Blood of Dawnwalker",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Bodycam (Build 26707677) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/yly551bg7t9f",
-        "https://itsfileditchfiles.st/alpha44/8ce1afef53561954e279/Bodycam-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-11-18T21:48:36Z",
-      "fileSize": "63.6 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/bodycam-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/bodycam-free-download",
-        "base": "Bodycam",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -1710,24 +1818,6 @@
       }
     },
     {
-      "title": "DREADMOOR (v0.4.39, Build 26547433) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/gg0mx2lmdg8p",
-        "https://itsfileditchfiles.st/alpha42/27a4324cacfe3df84b4f/DREADMOOR-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-11-11T04:02:46Z",
-      "fileSize": "5.8 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/dreadmoor-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/dreadmoor-free-download",
-        "base": "DREADMOOR",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
       "title": "We Were Here Tomorrow (v1.2.0, Build 26461871) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/e61j1z834tes",
@@ -2375,23 +2465,6 @@
       "debug": {
         "page": "https://steamrip.com/plague-inc-evolved-free-download-v1",
         "base": "Plague Inc: Evolved",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Hearts of Iron IV (Build 26409260) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/q7t8982wasxn"
-      ],
-      "uploadDate": "2026-11-07T20:06:09Z",
-      "fileSize": "6.6 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/hearts-of-iron-iv-free-download-l2\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/hearts-of-iron-iv-free-download-l2",
-        "base": "Hearts of Iron IV",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -3583,24 +3656,6 @@
       "debug": {
         "page": "https://steamrip.com/town-to-city-free-download",
         "base": "Town to City",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Europa Universalis V (v1.4.5, Build 26211608) (SteamRIP)",
-      "uris": [
-        "https://itsfileditchfiles.st/balpha39/3c37dffb0dd4627b0ae4/Europa-Universalis-IV-SteamRIP.com.rar",
-        "https://bzzhr.to/16iwly863lpv"
-      ],
-      "uploadDate": "2026-10-30T13:46:54Z",
-      "fileSize": "8.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/europa-universalis-v-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/europa-universalis-v-free-download",
-        "base": "Europa Universalis V",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -6577,24 +6632,6 @@
       "debug": {
         "page": "https://steamrip.com/total-war-shogun-2-complete-edition-free-download",
         "base": "Total War: SHOGUN 2",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Crusader Kings III (v1.20.1, Build 25870654) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/eizyoy7idxkx",
-        "https://fileditchfiles.st/balpha30/67c480969809398536d8/Crusader-Kings3-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-10-13T21:44:28Z",
-      "fileSize": "8.8 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/crusader-kings-iii-free-download-1j\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/crusader-kings-iii-free-download-1j",
-        "base": "Crusader Kings III",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -19995,24 +20032,6 @@
       "debug": {
         "page": "https://steamrip.com/onirism-free-download",
         "base": "Onirism",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Slay the Spire 2 (v0.111.0, Build 24724944) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/B7BwHD8F",
-        "https://megadb.net/a39d1c659c502b35"
-      ],
-      "uploadDate": "2026-09-04T10:40:43Z",
-      "fileSize": "1.3 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/slay-the-spire-2-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/slay-the-spire-2-free-download",
-        "base": "Slay the Spire 2",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -50015,25 +50034,6 @@
       "debug": {
         "page": "https://steamrip.com/keep-gambling-free-download",
         "base": "KEEP GAMBLING",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Goat Simulator 3 (v1.2.0.4_462744, Build 21131274) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/Be36qx",
-        "https://megadb.net/6pxw7pxg0mlw",
-        "https://bzzhr.to/udt8oewskfsz"
-      ],
-      "uploadDate": "2026-01-13T17:16:09Z",
-      "fileSize": "5.9 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/goat-simulator-3-free-download-n1\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/goat-simulator-3-free-download-n1",
-        "base": "Goat Simulator 3",
         "kind": "main",
         "section": null,
         "notes": [],

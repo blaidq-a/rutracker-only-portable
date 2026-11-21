@@ -270,7 +270,7 @@
       "uris": [
         "magnet:?xt=urn:btih:95FFCB341DA9D4139769597E191D2974A22A088D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-07T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "3.5 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6353139\">RuTracker Topic Page</a>"
     },
@@ -1192,7 +1192,7 @@
       "uris": [
         "magnet:?xt=urn:btih:3AA09357374641D29668667B42CC0F336F992343&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2023-06-25T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "124.8 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6378725\">RuTracker Topic Page</a>"
     },
@@ -3101,7 +3101,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A6DC531041F08AB95E19D57CFC0359929F41E4AA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-08-22T09:00:00Z",
+      "uploadDate": "2016-08-17T09:00:00Z",
       "fileSize": "1.14 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5152618\">RuTracker Topic Page</a>"
     },
@@ -4987,7 +4987,7 @@
       "uris": [
         "magnet:?xt=urn:btih:04BD781AA49C41D9116C24653AE472F648B5322F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-12T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "109.21 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6428920\">RuTracker Topic Page</a>"
     },
@@ -6043,6 +6043,15 @@
       "descriptionHtml": "<a href=\"https://online-fix.me/games/shooter/17806-alpha-response-po-seti.html\">Online-Fix Page</a>"
     },
     {
+      "title": "Alt-Frequencies (v1.0) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:D024E5158C1F05AB89E5E8DBB8436583C647128F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-07-29T09:00:00Z",
+      "fileSize": "350.7 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6888242\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Altarium (v9454) [Online-Fix]",
       "uris": [
         "magnet:?xt=urn:btih:E52A44C99D0F96B3D782C333810FB500F9F5193E&dn=Altarium&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
@@ -6068,6 +6077,15 @@
       "uploadDate": "2022-07-24T09:00:00Z",
       "fileSize": "11 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6237921\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "AlterMage (v1.0.4) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:5D8DE4DA3E6E48F2666E3A8D9B98FA6637E41C72&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "37.39 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940649\">RuTracker Topic Page</a>"
     },
     {
       "title": "Altero (Build 9816697) (SteamRIP)",
@@ -6439,7 +6457,7 @@
       "uris": [
         "magnet:?xt=urn:btih:DC065149D1FD259F287FE91CB33904148F048468&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-12T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "26.71 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6776258\">RuTracker Topic Page</a>"
     },
@@ -8045,7 +8063,7 @@
       "uris": [
         "magnet:?xt=urn:btih:82B378D4227F9B1F50CAB5EDB4D793C580A353E5&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.78 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6914374\">RuTracker Topic Page</a>"
     },
@@ -9636,7 +9654,7 @@
       "uris": [
         "magnet:?xt=urn:btih:9A87AB9F2F4F755C6413A56AB0FC69526E425AEC&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "16.7 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6935957\">RuTracker Topic Page</a>"
     },
@@ -10498,15 +10516,6 @@
       "descriptionHtml": "<a href=\"https://fitgirl-repacks.site/astroplanet/\">FitGirl Repacks Page</a>"
     },
     {
-      "title": "Astrox Imperium (v0.0144) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:A8DF4134143137345D6876B3B6324FC6C1BAA42C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-19T09:00:00Z",
-      "fileSize": "869.4 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5896124\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Astrumis - Survive Together (v1.00.04) [Online-Fix]",
       "uris": [
         "magnet:?xt=urn:btih:54FB64E1D61D4F23BBF0BB6710D7834D0B101195&dn=Astrumis%20-%20Survive%20Together&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
@@ -10896,7 +10905,7 @@
       "uris": [
         "magnet:?xt=urn:btih:427BC9E2ED5229ED0D164CD76220105D247B7138&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-09T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "74.15 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6919619\">RuTracker Topic Page</a>"
     },
@@ -11384,7 +11393,7 @@
       "uris": [
         "magnet:?xt=urn:btih:4E09486A665540BCB7F5FAFFC0CD651D9D3D8396&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "136.94 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6890635\">RuTracker Topic Page</a>"
     },
@@ -14484,7 +14493,7 @@
       "uris": [
         "magnet:?xt=urn:btih:8D57F9D59A20096697D3F11DF40AF53B5CA96E78&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-05T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "32.2 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6889661\">RuTracker Topic Page</a>"
     },
@@ -14988,7 +14997,7 @@
       "uris": [
         "magnet:?xt=urn:btih:B1496764F88C7311D70E4F1B270728D6C4E20D65&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-10-22T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "539.1 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6582858\">RuTracker Topic Page</a>"
     },
@@ -17597,7 +17606,7 @@
       "uris": [
         "magnet:?xt=urn:btih:36E4C39285D19E35C249FE99CF9C0194D96EFBAA&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "397.3 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=3870106\">RuTracker Topic Page</a>"
     },
@@ -17909,7 +17918,7 @@
       "uris": [
         "magnet:?xt=urn:btih:895A01F84492E81EB874D31E59FD97CE9C649332&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-08-22T09:00:00Z",
+      "uploadDate": "2026-08-19T09:00:00Z",
       "fileSize": "1.01 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6896874\">RuTracker Topic Page</a>"
     },
@@ -18439,19 +18448,19 @@
     {
       "title": "Bodycam (Build 16112026) [Online-Fix]",
       "uris": [
-        "magnet:?xt=urn:btih:48C90978F3F67C74682437B019D95A604310BB11&dn=Bodycam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
+        "magnet:?xt=urn:btih:A04AF9C93C42CA89216F7E9C07ED700DF109CA35&dn=Bodycam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
       ],
-      "uploadDate": "2026-11-17T01:01:00Z",
+      "uploadDate": "2026-11-18T23:19:00Z",
       "fileSize": "64.41 GB",
       "descriptionHtml": "<a href=\"https://online-fix.me/games/shooter/17452-bodycam-po-seti.html\">Online-Fix Page</a>"
     },
     {
       "title": "Bodycam (Build 26707677) (SteamRIP)",
       "uris": [
-        "https://bzzhr.to/yly551bg7t9f",
-        "https://itsfileditchfiles.st/alpha44/8ce1afef53561954e279/Bodycam-SteamRIP.com.rar"
+        "https://bzzhr.to/3fkxmcatnbyv",
+        "https://itsfileditchfiles.st/alpha44/a15b6d40853e82c3cfdb/Bodycam-SteamRIP.com.rar"
       ],
-      "uploadDate": "2026-11-18T21:48:36Z",
+      "uploadDate": "2026-11-21T00:54:47Z",
       "fileSize": "63.6 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/bodycam-free-download\">Website with instructions for launching the game</a>"
     },
@@ -18861,6 +18870,15 @@
       "uploadDate": "2026-11-15T16:39:57Z",
       "fileSize": "493.9 MB",
       "descriptionHtml": "<a href=\"https://steamrip.com/boom-buster-free-download\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "BoomBox Remastered (v3.1.3) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:C4D3BDEF061EA51FFB9844C9DF76D5F478519DFC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-19T09:00:00Z",
+      "fileSize": "1.55 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940163\">RuTracker Topic Page</a>"
     },
     {
       "title": "Boomerang Fu (Build 20430461) (SteamRIP)",
@@ -19892,7 +19910,7 @@
       "uris": [
         "magnet:?xt=urn:btih:62033AAFD057A4C15BAA969D583C528754ECF638&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-03T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "997.2 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6928409\">RuTracker Topic Page</a>"
     },
@@ -21064,9 +21082,18 @@
       "uris": [
         "magnet:?xt=urn:btih:84C2FE357902B35E4EE5AE986BD43353278ED43A&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "806.9 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6914812\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Bunny Eureka (v2026.11.19) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:BBA69443B4C6253E21AF1B50CA9CA9A47111008A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "2.12 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940477\">RuTracker Topic Page</a>"
     },
     {
       "title": "Bunny Must Die: Chelsea and 7 Devils [Portable]",
@@ -22054,7 +22081,7 @@
       "uris": [
         "magnet:?xt=urn:btih:99D0DC21E7F87156105C41F175A4646CD6F2448C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-14T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "47.91 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6731332\">RuTracker Topic Page</a>"
     },
@@ -22194,7 +22221,7 @@
       "uris": [
         "magnet:?xt=urn:btih:2630AF1B943D6B8EB3F10EB9A3D1C4C80D37B359&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "165.34 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6703598\">RuTracker Topic Page</a>"
     },
@@ -22223,7 +22250,7 @@
       "uris": [
         "magnet:?xt=urn:btih:1754575DEA117F60C6E94A70EF361A7D99685C2A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "72.91 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6924275\">RuTracker Topic Page</a>"
     },
@@ -23665,7 +23692,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E91B69A8D6815004B44D7498C59DB28BBC60CB18&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2024-02-21T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "7.59 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6027333\">RuTracker Topic Page</a>"
     },
@@ -24920,7 +24947,7 @@
       "uris": [
         "magnet:?xt=urn:btih:06A83E2255DA44BE0735C72E08ECC5D067A5955F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-23T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "2.92 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6925895\">RuTracker Topic Page</a>"
     },
@@ -26656,7 +26683,7 @@
       "uris": [
         "magnet:?xt=urn:btih:092BBBB472869D464EB7C0C1167CAFAE648E5004&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-07-28T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "19.41 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6178644\">RuTracker Topic Page</a>"
     },
@@ -26684,7 +26711,7 @@
       "uris": [
         "magnet:?xt=urn:btih:83BE6606D7342CAB5759F3F617CED8D2C88549E4&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "96.47 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6427329\">RuTracker Topic Page</a>"
     },
@@ -28027,15 +28054,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5889147\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Code Market (v1.0.0) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:5EF5079FF45001709A782B2762A53739F3124E3F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-19T09:00:00Z",
-      "fileSize": "106.8 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6938974\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Code of Honor 2: Conspiracy Island [Installer] (DODI)",
       "uris": [
         "magnet:?xt=urn:btih:DA32E001CCEB7F4A1AE9C235FB954E2D3839E534&dn=Code+of+Honor+2%3A+Conspiracy+Island+%26ndash%3B+%5BDODI+Repack%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
@@ -28887,7 +28905,7 @@
       "uris": [
         "magnet:?xt=urn:btih:7BB1FB2414C06CAC7FE0DC5339FACD0F39A3F14C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-13T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "31.65 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6779206\">RuTracker Topic Page</a>"
     },
@@ -29547,7 +29565,7 @@
       "uris": [
         "magnet:?xt=urn:btih:077C160009DBBF63D9C9B072A58D50EA61A6CDA9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "106.79 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6912737\">RuTracker Topic Page</a>"
     },
@@ -30085,7 +30103,7 @@
       "uris": [
         "magnet:?xt=urn:btih:1FD0EEB25DA89C2F9296A612D7C99AFF4CAF61A6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-07T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "27.81 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6889175\">RuTracker Topic Page</a>"
     },
@@ -31381,7 +31399,7 @@
       "uris": [
         "magnet:?xt=urn:btih:D2F70E59D1CBC789B08ADCC197230977B3013BD1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "131.97 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6890644\">RuTracker Topic Page</a>"
     },
@@ -31992,16 +32010,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6397706\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Crusader Kings III (v1.20.1, Build 25870654) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/eizyoy7idxkx",
-        "https://fileditchfiles.st/balpha30/67c480969809398536d8/Crusader-Kings3-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-10-13T21:44:28Z",
-      "fileSize": "8.8 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/crusader-kings-iii-free-download-1j\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Crusader Kings III (v1.20.1.1) [Online-Fix]",
       "uris": [
         "magnet:?xt=urn:btih:AEFE500774949F37DDAC6A5268C44FEFCEDE1218&dn=Crusader%20Kings%20III&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
@@ -32015,9 +32023,19 @@
       "uris": [
         "magnet:?xt=urn:btih:08DF3F996C821CFCC0B81A75AB85AA7A4F9C0141&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "7.95 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6589065\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Crusader Kings III (v1.21.0.3, Build 26785313) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/2mgq5k5tg6g9",
+        "https://itsfileditchfiles.st/alpha44/e3a37d24da075da70258/Crusader-Kings3-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-20T22:54:09Z",
+      "fileSize": "9.3 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/crusader-kings-iii-free-download-1j\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Crusader Kings III: Collection (v1.21.0) (Installed: 20 GB) [Installer] (DODI)",
@@ -33183,7 +33201,7 @@
       "uris": [
         "magnet:?xt=urn:btih:489745749AB9EE377AE3F91E9D3DF100876B6C0F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "141.61 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5981970\">RuTracker Topic Page</a>"
     },
@@ -34805,6 +34823,15 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/davy-x-jones-free-download\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Dawn Apart (v1.0) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:1ABE6C49C71130B26F781B40FA1A4F581A6C4090&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "2.88 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940468\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Dawn Bell (Build 24005485) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/gabxl89pgynp"
@@ -35080,7 +35107,7 @@
       "uris": [
         "magnet:?xt=urn:btih:36E92CCC7156622E16606C5D7809D747A94D07F6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-14T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "62.89 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6056156\">RuTracker Topic Page</a>"
     },
@@ -37153,7 +37180,7 @@
       "uris": [
         "magnet:?xt=urn:btih:714CC0170F1E555C4879C91A35ABFA1C0F851DF6&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "5.32 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940199\">RuTracker Topic Page</a>"
     },
@@ -38036,7 +38063,7 @@
       "uris": [
         "magnet:?xt=urn:btih:C46BD35D9670E1D59C4ECDCF89B3D712FD00C2F0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "479.9 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6938851\">RuTracker Topic Page</a>"
     },
@@ -38909,7 +38936,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E8941AED410C48F184E367EC1742D3E89C2C472A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "38.29 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6818061\">RuTracker Topic Page</a>"
     },
@@ -39047,7 +39074,7 @@
       "uris": [
         "magnet:?xt=urn:btih:F142BF98904163FD6C8CB9A00BC42C6A8F715AD8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-17T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "2.3 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6938038\">RuTracker Topic Page</a>"
     },
@@ -39656,7 +39683,7 @@
       "uris": [
         "magnet:?xt=urn:btih:40039F7DC48DA95D7C3C2FE45AE470E8BDCDD589&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-08-12T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "2.08 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6637646\">RuTracker Topic Page</a>"
     },
@@ -40276,15 +40303,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5798368\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Disney Dreamlight Valley (v1.24.2.6) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:9E6E68F068008065BD2BE4C8AA8231C59433E698&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-19T09:00:00Z",
-      "fileSize": "18.98 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6686107\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Disney Dreamlight Valley (v1.26.1.633, Build 24078986) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/n524gg5dwhzf",
@@ -40293,6 +40311,15 @@
       "uploadDate": "2026-11-18T19:43:08Z",
       "fileSize": "23.7 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/disney-dreamlight-valley-free-download-n1\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Disney Dreamlight Valley (v1.26.2.6) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:4454EBFD91F49880317EC4D23A87A4672B27572C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "27.37 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6686107\">RuTracker Topic Page</a>"
     },
     {
       "title": "Disney Epic Mickey 2: The Power of Two (Build 6313865) (SteamRIP)",
@@ -41278,7 +41305,7 @@
       "uris": [
         "magnet:?xt=urn:btih:9637AC746A39848BB2FB863DC795731FDAC759A7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-12T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "301.1 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5798872\">RuTracker Topic Page</a>"
     },
@@ -41808,7 +41835,7 @@
       "uris": [
         "magnet:?xt=urn:btih:404CA58D57FBCFBC68385CA90AF6DA643856C140&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-20T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "89.53 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5868220\">RuTracker Topic Page</a>"
     },
@@ -41875,7 +41902,7 @@
       "uris": [
         "magnet:?xt=urn:btih:4AAB5E633F177F8F5D51DDA13B0F7A81CF3F81A2&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "123.13 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6823657\">RuTracker Topic Page</a>"
     },
@@ -42757,7 +42784,7 @@
       "uris": [
         "magnet:?xt=urn:btih:BE4DE3940DF2247F4F1D5D96D86B953075395884&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-15T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "92.66 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6850114\">RuTracker Topic Page</a>"
     },
@@ -43207,23 +43234,14 @@
       "descriptionHtml": "<a href=\"https://online-fix.me/games/horror/17820-dreadline-net-quota-po-seti.html\">Online-Fix Page</a>"
     },
     {
-      "title": "DREADMOOR (v0.4.39, Build 26547433) (SteamRIP)",
+      "title": "DREADMOOR (v0.4.49, Build 26547433) (SteamRIP)",
       "uris": [
-        "https://bzzhr.to/gg0mx2lmdg8p",
-        "https://itsfileditchfiles.st/alpha42/27a4324cacfe3df84b4f/DREADMOOR-SteamRIP.com.rar"
+        "https://bzzhr.to/8bk30dbwogwf",
+        "https://itsfileditchfiles.st/alpha44/aa432b9928a283d6aa9d/DREADMOOR-SteamRIP.com.rar"
       ],
-      "uploadDate": "2026-11-11T04:02:46Z",
-      "fileSize": "5.8 GB",
+      "uploadDate": "2026-11-20T21:44:24Z",
+      "fileSize": "5.9 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/dreadmoor-free-download\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "DREADMOOR (v0.4.46) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:8999A9BD676490C1B9CDA7E5FDD18AED5C5BA453&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-17T09:00:00Z",
-      "fileSize": "6.3 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6935488\">RuTracker Topic Page</a>"
     },
     {
       "title": "DreadOut (v2.2.18) (SteamRIP)",
@@ -43258,7 +43276,7 @@
       "uris": [
         "magnet:?xt=urn:btih:248384A176C4ACBD311FA58618F1ACBA8EA16942&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-05-10T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "4.35 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6694674\">RuTracker Topic Page</a>"
     },
@@ -43442,15 +43460,6 @@
       "uploadDate": "2024-11-02T18:17:41Z",
       "fileSize": "2.20 GB",
       "descriptionHtml": "<a href=\"https://fitgirl-repacks.site/dreamless/\">FitGirl Repacks Page</a>"
-    },
-    {
-      "title": "DREAMOUT (v1.0.3) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:B5BB2E3BD75F94AD8690C65217062A916585A4FE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-10-25T09:00:00Z",
-      "fileSize": "156.5 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6761490\">RuTracker Topic Page</a>"
     },
     {
       "title": "Dreams in the Witch House (v1.08) [Installer] (GOG)",
@@ -46054,7 +46063,7 @@
       "uris": [
         "magnet:?xt=urn:btih:5D0F2DD194BC9A6383D319C90722939DFEE9E975&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "85.41 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6936574\">RuTracker Topic Page</a>"
     },
@@ -48755,7 +48764,7 @@
       "uris": [
         "magnet:?xt=urn:btih:BF3B43D34FC90D7F535F24D2DCD0F1F7D55827AB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "48.27 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6515577\">RuTracker Topic Page</a>"
     },
@@ -49930,23 +49939,23 @@
       "descriptionHtml": "<a href=\"https://online-fix.me/games/strategy/17930-europa-universalis-v-po-seti.html\">Online-Fix Page</a>"
     },
     {
-      "title": "Europa Universalis V (v1.4.5, Build 26211608) (SteamRIP)",
-      "uris": [
-        "https://itsfileditchfiles.st/balpha39/3c37dffb0dd4627b0ae4/Europa-Universalis-IV-SteamRIP.com.rar",
-        "https://bzzhr.to/16iwly863lpv"
-      ],
-      "uploadDate": "2026-10-30T13:46:54Z",
-      "fileSize": "8.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/europa-universalis-v-free-download\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Europa Universalis V (v1.4.7) [Portable] (InsaneRamZes)",
       "uris": [
         "magnet:?xt=urn:btih:3DD52FECE2E8F9A509412236B3DD04C382C1A321&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "7.44 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6767829\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Europa Universalis V (v1.4.9, Build 26655995) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/733c232f74bbfc648552/Europa-Universalis5-SteamRIP.com.rar",
+        "https://bzzhr.to/7c5o5bxk5i5l"
+      ],
+      "uploadDate": "2026-11-20T22:30:49Z",
+      "fileSize": "8.4 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/europa-universalis-v-free-download\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Europa Universalis: Rome - Gold Edition (v2.36) [Installer] (GOG)",
@@ -50574,7 +50583,7 @@
       "uris": [
         "magnet:?xt=urn:btih:D1E7D1E5BFDA21E6ABFC66F28CA91CC172B7E46F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-17T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "7.79 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6919570\">RuTracker Topic Page</a>"
     },
@@ -51641,7 +51650,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E9C04071868FACA8ED96E29FB9A0484F1390010D&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.64 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6939389\">RuTracker Topic Page</a>"
     },
@@ -52685,7 +52694,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A3FB13BC88B951E2C977D256D971FE7DAF94514C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-04-09T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "835.4 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6700529\">RuTracker Topic Page</a>"
     },
@@ -57523,7 +57532,7 @@
       "uris": [
         "magnet:?xt=urn:btih:3972367C3E234D58881152CE259F5C1D1D587694&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "158.95 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6857080\">RuTracker Topic Page</a>"
     },
@@ -58496,7 +58505,7 @@
       "uris": [
         "magnet:?xt=urn:btih:1B483AC46E3C91536CF5280DC5961CB0E352BDD0&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.67 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6939371\">RuTracker Topic Page</a>"
     },
@@ -60865,7 +60874,7 @@
       "uris": [
         "magnet:?xt=urn:btih:33A8BFBCAC6AE7060B7A26C2C575640B4D901AD8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "263.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6459195\">RuTracker Topic Page</a>"
     },
@@ -62060,24 +62069,14 @@
       "descriptionHtml": "<a href=\"https://online-fix.me/games/adventures/17173-goat-simulator-3-po-seti.html\">Online-Fix Page</a>"
     },
     {
-      "title": "Goat Simulator 3 (v1.2.0.4_462744, Build 21131274) (SteamRIP)",
+      "title": "Goat Simulator 3 (v1.3.0.0, Build 26223281) (SteamRIP)",
       "uris": [
-        "https://gofile.io/d/Be36qx",
-        "https://megadb.net/6pxw7pxg0mlw",
-        "https://bzzhr.to/udt8oewskfsz"
+        "https://itsfileditchfiles.st/alpha44/1dd27ad7094089e61876/Goat-Sim-3-SteamRIP.com.rar",
+        "https://bzzhr.to/1ouzk0xvu8al"
       ],
-      "uploadDate": "2026-01-13T17:16:09Z",
-      "fileSize": "5.9 GB",
+      "uploadDate": "2026-11-20T22:23:53Z",
+      "fileSize": "6.7 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/goat-simulator-3-free-download-n1\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Goat Simulator 3 (v1.2.1.1) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:A3215D60EDBC35E33AF3271D8C0B99039C75728D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-04-18T09:00:00Z",
-      "fileSize": "13.8 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6707725\">RuTracker Topic Page</a>"
     },
     {
       "title": "Goat Simulator 3: Multiversal Traveler's Bundle (v1.2.0.0_451194) (Installed: 13.8 GB) [Installer] (FitGirl)",
@@ -63226,7 +63225,7 @@
       "uris": [
         "magnet:?xt=urn:btih:8F4919F53F759949369681C5355E637BAB1B1A44&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "36.67 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6867205\">RuTracker Topic Page</a>"
     },
@@ -63639,7 +63638,7 @@
       "uris": [
         "magnet:?xt=urn:btih:127827D4F56E28076D789D0FB1594B07BB4C1623&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "112.57 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6466612\">RuTracker Topic Page</a>"
     },
@@ -63676,7 +63675,7 @@
       "uris": [
         "magnet:?xt=urn:btih:16BE9A2F2644C0A2A0EF2A53EA054D1464B16F2A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-24T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "4.68 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5289837\">RuTracker Topic Page</a>"
     },
@@ -63825,7 +63824,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E5F319278A90FD1E34CDD7C2B2A16BF838690AA4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-29T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "562.5 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6417254\">RuTracker Topic Page</a>"
     },
@@ -66144,7 +66143,7 @@
       "uris": [
         "magnet:?xt=urn:btih:12C60B6CBAFA60DCBA5E00467ADE8491F1ECD7A0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "11.67 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6809915\">RuTracker Topic Page</a>"
     },
@@ -66957,7 +66956,7 @@
       "uris": [
         "magnet:?xt=urn:btih:F73E2423F1EF66AB821359CB4C36379C97DF365C&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-06-30T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "757.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5720342\">RuTracker Topic Page</a>"
     },
@@ -67829,15 +67828,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6858455\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Hearts of Iron IV (Build 26409260) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/q7t8982wasxn"
-      ],
-      "uploadDate": "2026-11-07T20:06:09Z",
-      "fileSize": "6.6 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/hearts-of-iron-iv-free-download-l2\">Website with instructions for launching the game</a>"
-    },
-    {
       "title": "Hearts of Iron IV (v1.13.5) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:B0C04B8C796FD5DB027F45CE4E3105D48E85A6FD&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -67854,6 +67844,16 @@
       "uploadDate": "2026-10-15T16:59:00Z",
       "fileSize": "6.76 GB",
       "descriptionHtml": "<a href=\"https://online-fix.me/games/strategy/16290-hearts-of-iron-iv-po-seti.html\">Online-Fix Page</a>"
+    },
+    {
+      "title": "Hearts of Iron IV (v1.20.0, Build 26733403) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha44/a569625f082f7a7c39e1/Hearts-of-Iron4-SteamRIP.com.rar",
+        "https://bzzhr.to/xjjz8ud6my8o"
+      ],
+      "uploadDate": "2026-11-20T21:58:44Z",
+      "fileSize": "6.01 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/hearts-of-iron-iv-free-download-l2\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Hearts of Iron IV: Field Marshal Edition (Installed: 6.8 GB) [Installer] (DODI)",
@@ -70572,7 +70572,7 @@
       "uris": [
         "magnet:?xt=urn:btih:8B04A8ED018EC04B9FC96D78355103AFD8D669E8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-04-15T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "4.67 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6398336\">RuTracker Topic Page</a>"
     },
@@ -73575,7 +73575,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E75A5F0107194C631F780D6BCF04E737EF491596&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.2 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6939400\">RuTracker Topic Page</a>"
     },
@@ -76495,15 +76495,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6917541\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Isekai Villain (v1.0.0) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:B21BD65893CF13A8BBD3CF7C42BFA0396F420F65&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-08-21T09:00:00Z",
-      "fileSize": "226 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6898049\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Ishar Compilation [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:6962A9B4EEEAB755802B24E3DBE95B4E7562C750&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -79234,6 +79225,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6740753\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Ken Follett's The Pillars of the Earth (v1.1.703) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:F8B01086B32539E8B6D40A28030546F5430A1DD3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "12.65 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5441407\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Kena: Bridge of Spirits (v2.06) [Portable] (InsaneRamZes)",
       "uris": [
         "magnet:?xt=urn:btih:43C2D06F59C6C1893000BF312148E3CE4E519EE9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -80140,7 +80140,7 @@
       "uris": [
         "magnet:?xt=urn:btih:7329AEB6C45A14DC6CEF91CE11F551F49CCFA208&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "164.01 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6640893\">RuTracker Topic Page</a>"
     },
@@ -81402,15 +81402,6 @@
       "uploadDate": "2026-06-30T00:29:22Z",
       "fileSize": "2.8 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/kovaaks-free-download-a1\">Website with instructions for launching the game</a>"
-    },
-    {
-      "title": "Kraken Academy!! (v1.1.12) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:BF77360895DCD3DA26E3232FF74958B4654A2545&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2025-10-17T09:00:00Z",
-      "fileSize": "1.18 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6107852\">RuTracker Topic Page</a>"
     },
     {
       "title": "Krampus [Portable]",
@@ -83058,7 +83049,7 @@
       "uris": [
         "magnet:?xt=urn:btih:49F0B6EAD0211DC2A47E85F60FC937DE47772703&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-06T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "344.2 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6932361\">RuTracker Topic Page</a>"
     },
@@ -84481,7 +84472,7 @@
       "uris": [
         "magnet:?xt=urn:btih:0111008A7A6518EF7B2EBD26C9D8C3D3E460DE9C&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-24T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.13 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6853107\">RuTracker Topic Page</a>"
     },
@@ -85176,7 +85167,7 @@
       "uris": [
         "magnet:?xt=urn:btih:725D7A22CB240737B21CF2DD38B4752A41EFCBE9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2022-08-04T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "868 KB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=226679\">RuTracker Topic Page</a>"
     },
@@ -88714,15 +88705,6 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/mafia-ii-free-download\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Mafia II (v5) (2010 Original) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:F1EFD781BFE46B663B417560BF911E9FEE673B7F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-15T09:00:00Z",
-      "fileSize": "15.12 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5542194\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Mafia II: Definitive Edition (SteamRIP)",
       "uris": [
         "https://bzzhr.to/thzpyk8aotl2"
@@ -90447,8 +90429,8 @@
       "uris": [
         "magnet:?xt=urn:btih:BBB3C1DCFEC80DA7CCCBB7B97B3E0A8D34546315&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-09T09:00:00Z",
-      "fileSize": "79 GB",
+      "uploadDate": "2026-07-08T18:09:41Z",
+      "fileSize": "79.00 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6246031\">RuTracker Topic Page</a>"
     },
     {
@@ -92147,6 +92129,15 @@
       "uploadDate": "2016-02-07T09:00:00Z",
       "fileSize": "87.3 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=1549753\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Men of Valor (v1.3) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:9FFBC6D200CDD0C0FCCF0787D32E6AC61E88A4F1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "13.05 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6669686\">RuTracker Topic Page</a>"
     },
     {
       "title": "Men of War (v1.17.5) [Installer] (GOG)",
@@ -96668,7 +96659,7 @@
       "uris": [
         "magnet:?xt=urn:btih:50D78A86CE961E93FC33B7AB430B261F78F92B01&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-05T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "145.85 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5955857\">RuTracker Topic Page</a>"
     },
@@ -97345,7 +97336,7 @@
       "uris": [
         "magnet:?xt=urn:btih:2D4B12064E186245589A0556104BA63DD7E9FC0B&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "90 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6778252\">RuTracker Topic Page</a>"
     },
@@ -103290,7 +103281,7 @@
       "uris": [
         "magnet:?xt=urn:btih:4802D251A6CEF0C79E8D0B194A140F228A5546C5&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-04T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "2.97 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6928885\">RuTracker Topic Page</a>"
     },
@@ -105510,6 +105501,15 @@
       "descriptionHtml": "<a href=\"https://fitgirl-repacks.site/one-eleven/\">FitGirl Repacks Page</a>"
     },
     {
+      "title": "ONE FENIX DOWN (v1.07) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:A9FB2C13FDF96B05673A2ADAB93EFE2FFAF50B3F&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "2.05 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940508\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "One Finger Death Punch 2 [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:C6AD4CD274E7A57EB0D92528BBD6B354731610C0&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -105649,7 +105649,7 @@
       "uris": [
         "magnet:?xt=urn:btih:AB636CE08C829DEB3B10745EEC88800F9B687662&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "624.3 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6939592\">RuTracker Topic Page</a>"
     },
@@ -105939,7 +105939,7 @@
       "uris": [
         "magnet:?xt=urn:btih:8205E36B01619FEC5E1F404F1A7E79962B63472A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "57.81 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6931169\">RuTracker Topic Page</a>"
     },
@@ -111749,6 +111749,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6567765\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Pillars of Eternity (v3.9.5.89801) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:E62D3E1AC78AD9247107C7D276BC1F01A343BCBD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "19.69 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5106160\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Pillars of Eternity II: Deadfire (v2.0.0.0030) [Installer] (DODI)",
       "uris": [
         "magnet:?xt=urn:btih:82748A72C40EE2C81784E05D325CEB0E4E5B787D&dn=Pillars+of+Eternity+II+Deadfire+%26ndash%3B%28v+2.0.0.0030+%2B+DLCs+%2B+Bonus%29%28selective+repack%29+-+%5BDODI+repack%5D&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
@@ -111762,7 +111771,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A4DA38C547D2BF6BCF9B72CF8F7715A1961F4B82&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "27.54 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5559160\">RuTracker Topic Page</a>"
     },
@@ -113732,6 +113741,15 @@
       "descriptionHtml": "<a href=\"https://fitgirl-repacks.site/poop-killer-flush-or-die/\">FitGirl Repacks Page</a>"
     },
     {
+      "title": "Poop Killer - The Golden Fart (Build 26346415) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:3F04CC3CA1117F3EE669F117B42F49FC45C6A2F1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "7.03 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940494\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Poopy's Playland (Build 25782213) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/vztxmlnoxcwv",
@@ -114612,7 +114630,7 @@
       "uris": [
         "magnet:?xt=urn:btih:9604178ECD5653F852172A36B318E49838E89DD4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-02T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "35.01 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6858736\">RuTracker Topic Page</a>"
     },
@@ -115865,6 +115883,15 @@
       "uploadDate": "2024-03-10T18:30:05Z",
       "fileSize": "1.7 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/project-downfall-free-download-n1\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Project Downfall (v1.0.6.2) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:776FD47166F1E7F2009FB69DB49CB7FE2F19415E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-08-14T09:00:00Z",
+      "fileSize": "1.59 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6265799\">RuTracker Topic Page</a>"
     },
     {
       "title": "Project Explore (v0.1.5.1) [Portable]",
@@ -117657,7 +117684,7 @@
       "uris": [
         "magnet:?xt=urn:btih:755A339CEFED5395AEE8533828A46BFA1268476A&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "719.1 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6930816\">RuTracker Topic Page</a>"
     },
@@ -119367,7 +119394,7 @@
       "uris": [
         "magnet:?xt=urn:btih:4FC23344CFC6E465B068225626731FDD2CC613C9&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "100.39 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6939284\">RuTracker Topic Page</a>"
     },
@@ -120965,7 +120992,7 @@
       "uris": [
         "magnet:?xt=urn:btih:98C9321307684B0D01F80B608270878BEF4B7AB6&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-17T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "242.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6935546\">RuTracker Topic Page</a>"
     },
@@ -121400,7 +121427,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E0574EB18AD5164F3A1899908CFD22695884E02C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "76.14 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6843058\">RuTracker Topic Page</a>"
     },
@@ -122877,15 +122904,6 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/rimworld-free-download-2j\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "RimWorld (v1.6.4871) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:FA76ED119869F69849E48A40CD607D872C0CC6F4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-16T09:00:00Z",
-      "fileSize": "543.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6514749\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "RIN: The Last Child (v215_9966) (Installed: 1.3 GB) [Installer] (FitGirl)",
       "uris": [
         "magnet:?xt=urn:btih:9B84E5ECD75AFBE4F9543C5CCFCC8DC27517C1A5&dn=RIN%3A+The+Last+Child+%28v215_9966%2FRelease%2C+MULTi9%29+%5BFitGirl+Repack%5D&tr=udp%3A%2F%2Fopentor.net%3A6969&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.ccp.ovh%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.theoks.net%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.tamersunion.org%3A443%2Fannounce&tr=http%3A%2F%2Fopen.acgnxtracker.com%3A80%2Fannounce&tr=http%3A%2F%2Fopen.acgtracker.com%3A1096%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce"
@@ -123146,6 +123164,15 @@
       "uploadDate": "2026-10-10T00:50:27Z",
       "fileSize": "23.5 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/rise-of-the-tomb-raider-20-year-celebration-2i\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Rise of the Triad (v1.5) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:56B09E2372CD85F623DE9C5BC97C84B985446B7E&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2023-08-04T09:00:00Z",
+      "fileSize": "5.87 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5003491\">RuTracker Topic Page</a>"
     },
     {
       "title": "Rise of the Triad: Dark War (v1.3) [Installer] (GOG)",
@@ -123795,7 +123822,7 @@
       "uris": [
         "magnet:?xt=urn:btih:C4AD58E543AA6274786DDA2D79FC9D4FE5C70EBD&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-15T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "3.1 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6933719\">RuTracker Topic Page</a>"
     },
@@ -123850,7 +123877,7 @@
       "uris": [
         "magnet:?xt=urn:btih:7EDCFA1B8726976BB89120D3AADA994F1D7CA937&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-31T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "5.75 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6842017\">RuTracker Topic Page</a>"
     },
@@ -123877,7 +123904,7 @@
       "uris": [
         "magnet:?xt=urn:btih:307547EC22319D526B0E6C17D3F880A1451BBDF7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-17T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "81.42 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6695479\">RuTracker Topic Page</a>"
     },
@@ -124175,6 +124202,15 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/roccos-island-ring-to-end-the-pain-free-download-1y\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Rock Band Simulator (Build 26812758) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:1D51EA80204F7BDC0C55523DE4AA5A2EB0C3ED22&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "727.3 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940600\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Rock Bottom [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:4428FE5AA03D371D9BF8AE8DA85EB430ACEC96FF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -124324,7 +124360,7 @@
       "uris": [
         "magnet:?xt=urn:btih:94D4F813D8AC68D4FC3C2A9295AC76693C113108&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "12.62 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6847117\">RuTracker Topic Page</a>"
     },
@@ -126341,7 +126377,7 @@
       "uris": [
         "magnet:?xt=urn:btih:DDA1099E476806CC2D45EE22EE90A0E6318FFDF8&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-26T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "18.36 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6771235\">RuTracker Topic Page</a>"
     },
@@ -132856,7 +132892,7 @@
       "uris": [
         "magnet:?xt=urn:btih:FB8F1F3A03D5859E4067DC096E40EF98791C1EC6&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "6.21 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6920002\">RuTracker Topic Page</a>"
     },
@@ -134236,6 +134272,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6201043\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Slay the Spire 2 (v0.107.1) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:8DD5BA4195BC25B6DAAE380ED08F22688ACB3A9B&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "2.72 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6825938\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Slay the Spire 2 (v0.111.0) [Online-Fix]",
       "uris": [
         "magnet:?xt=urn:btih:F0A2577B2FFFB85E8806592CAFE062A253F9ED74&dn=Slay%20the%20Spire%202&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337"
@@ -134245,13 +134290,13 @@
       "descriptionHtml": "<a href=\"https://online-fix.me/games/strategy/18025-slay-the-spire-2-po-seti.html\">Online-Fix Page</a>"
     },
     {
-      "title": "Slay the Spire 2 (v0.111.0, Build 24724944) (SteamRIP)",
+      "title": "Slay the Spire 2 (v0.111.1, Build 26655341) (SteamRIP)",
       "uris": [
-        "https://gofile.io/d/B7BwHD8F",
-        "https://megadb.net/a39d1c659c502b35"
+        "https://itsfileditchfiles.st/alpha44/018021d2e4f5ea37bba7/Slay-the-Spire-2-SteamRIP.com.rar",
+        "https://megadb.net/5c03db375ccbc443"
       ],
-      "uploadDate": "2026-09-04T10:40:43Z",
-      "fileSize": "1.3 GB",
+      "uploadDate": "2026-11-20T21:59:28Z",
+      "fileSize": "1.34 GB",
       "descriptionHtml": "<a href=\"https://steamrip.com/slay-the-spire-2-free-download\">Website with instructions for launching the game</a>"
     },
     {
@@ -134561,7 +134606,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A97CE414DE8E27EF5418EB3B904F4AF2DE8B84D5&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "3.71 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6811002\">RuTracker Topic Page</a>"
     },
@@ -138945,15 +138990,6 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/spore-complete-edition-free-download-1h\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "SPORE™ (v3.1.0.22) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:41A10F8B86F038977AE365F0FEFDB9D4D37E845F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-01T09:00:00Z",
-      "fileSize": "5.26 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5649174\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Sport Mode (Build 7255968) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:717707BF3851EED2CC8329A5F8C04293C1CC0575&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -139813,7 +139849,7 @@
       "uris": [
         "magnet:?xt=urn:btih:F842CC6572EB379227E5E3A03BDA9EC055477C01&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "129.98 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6572786\">RuTracker Topic Page</a>"
     },
@@ -139822,7 +139858,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E847D4E1942BD39602048BB8A5D572B91A7FA4DC&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "85.38 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6904760\">RuTracker Topic Page</a>"
     },
@@ -140438,7 +140474,7 @@
       "uris": [
         "magnet:?xt=urn:btih:ACE56E111A124F8223F7B706D3D36C9417770FC8&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "192.2 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6403460\">RuTracker Topic Page</a>"
     },
@@ -145630,7 +145666,7 @@
       "uris": [
         "magnet:?xt=urn:btih:FB27F22AF8EBA78C9E16E1BF5DBF51BD19CE86BA&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "4.45 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6938426\">RuTracker Topic Page</a>"
     },
@@ -147172,7 +147208,7 @@
       "uris": [
         "magnet:?xt=urn:btih:F376F148239EA5B6B15DA770AAFC06A77B5F1E1A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-05T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "40.34 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6696915\">RuTracker Topic Page</a>"
     },
@@ -148806,7 +148842,7 @@
       "uris": [
         "magnet:?xt=urn:btih:2CBA7130A65F7E8517669CB472807333CAC4D9F7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-11T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "68.97 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6679565\">RuTracker Topic Page</a>"
     },
@@ -150672,7 +150708,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A9635D8CA330A366D992992F75F8B951229E89C3&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-12T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "714.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6936605\">RuTracker Topic Page</a>"
     },
@@ -150790,7 +150826,7 @@
       "uris": [
         "magnet:?xt=urn:btih:A1EC9AB73FA2FC9AA13AD1065D3E3BB33C342D82&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "55.54 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6903361\">RuTracker Topic Page</a>"
     },
@@ -155144,7 +155180,7 @@
       "uris": [
         "magnet:?xt=urn:btih:9D2D30C360D27B8560AEA76949BC7DDE4F30A4EC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-15T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "116.02 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6672156\">RuTracker Topic Page</a>"
     },
@@ -163644,6 +163680,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5914639\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Toto's Journey (v1.0.8) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:65064F4CBD74444122A62B99E71B7449A2B4BADF&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "9.69 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940489\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Touch Some Grass [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:AB2724F4DF44CB31B14CE83F855C538139484580&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -164549,7 +164594,7 @@
       "uris": [
         "magnet:?xt=urn:btih:08F66E09A4243BE34FD20470A148A94F44189B1A&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-18T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "26.7 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6450180\">RuTracker Topic Page</a>"
     },
@@ -165140,7 +165185,7 @@
       "uris": [
         "magnet:?xt=urn:btih:FFEB8D98E89251A45E954F9CB669CEC8DC6A96F9&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-17T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "68.76 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6915882\">RuTracker Topic Page</a>"
     },
@@ -166230,6 +166275,15 @@
       "uploadDate": "2011-11-07T09:00:00Z",
       "fileSize": "10.1 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=2777752\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Trust Your Gut (v1.03) [Portable]",
+      "uris": [
+        "magnet:?xt=urn:btih:B92761C1AF5E9A43B5150E7005610718989C44D8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-19T09:00:00Z",
+      "fileSize": "950.3 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6940123\">RuTracker Topic Page</a>"
     },
     {
       "title": "Truxton Extreme (v1.0.1) [Installer] (GOG)",
@@ -171155,7 +171209,7 @@
       "uris": [
         "magnet:?xt=urn:btih:B36D3F671987785749476EDE092859027068BC5C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-15T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "862.9 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6274756\">RuTracker Topic Page</a>"
     },
@@ -172399,6 +172453,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6771488\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Wall World Strategy (v1.0.0.278) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:2A06131B69BBC9952F560E9330FE364ACD380095&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "1.86 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6936413\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Wallachia: Reign of Dracula (Build 5610992) [Portable]",
       "uris": [
         "magnet:?xt=urn:btih:FE99806198F0FC81006BD5153473D290F6D1CA01&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -173205,7 +173268,7 @@
       "uris": [
         "magnet:?xt=urn:btih:6F7CD10E3A63D374E3F01BA2B2CA30C10D82A818&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "41.8 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6293603\">RuTracker Topic Page</a>"
     },
@@ -176441,7 +176504,7 @@
       "uris": [
         "magnet:?xt=urn:btih:796FEFF2E555C90D8EC9CB22A49BE5C37541736E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "18.34 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6933787\">RuTracker Topic Page</a>"
     },
@@ -176786,7 +176849,7 @@
       "uris": [
         "magnet:?xt=urn:btih:71F61612A817F12A31ECD5DB517E4B99D883FFB7&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "49.03 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6411649\">RuTracker Topic Page</a>"
     },
@@ -177187,7 +177250,7 @@
       "uris": [
         "magnet:?xt=urn:btih:DBC075AE4B46FA607AC7823CC6AC6BFB6F74AEAC&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-16T09:00:00Z",
+      "uploadDate": "2026-11-20T09:00:00Z",
       "fileSize": "1.18 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6325767\">RuTracker Topic Page</a>"
     },
@@ -180415,15 +180478,6 @@
       "descriptionHtml": "<a href=\"https://steamrip.com/zed-zone-free-download-v1\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "ZED ZONE (v1.0.16) [Portable]",
-      "uris": [
-        "magnet:?xt=urn:btih:036A3880BC0A4C952085A1597E6323C51D56C081&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-19T09:00:00Z",
-      "fileSize": "2.43 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6918199\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Zedfest (v1.02) [Online-Fix]",
       "uris": [
         "magnet:?xt=urn:btih:FC14D8FC26E84B9298A90D760BE5A3CB965DFDC2&dn=Zedfest&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969"
@@ -182825,12 +182879,12 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6892942\">RuTracker Topic Page</a>"
     },
     {
-      "title": "我在地府打麻将 - Demonic Mahjong (v0.2.40) [Portable]",
+      "title": "我在地府打麻将 - Demonic Mahjong (v0.2.72) [Portable]",
       "uris": [
-        "magnet:?xt=urn:btih:E47B8AE3F33EC2FEF50E29C0412638A654C682BB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:C7017CDEF138A405B5A998383D31CB469354FDC7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2025-11-23T09:00:00Z",
-      "fileSize": "2.66 GB",
+      "uploadDate": "2026-11-20T09:00:00Z",
+      "fileSize": "3.47 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6721128\">RuTracker Topic Page</a>"
     },
     {
