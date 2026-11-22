@@ -231,7 +231,7 @@
       "uris": [
         "magnet:?xt=urn:btih:E1CCA5402D77659DB6E0E26BCBC213215B69AFAE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-19T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "162.7 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6701597\">RuTracker Topic Page</a>"
     },
@@ -1910,6 +1910,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6117874\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Astrox Imperium (v0.0144) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:A8DF4134143137345D6876B3B6324FC6C1BAA42C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "869.4 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5896124\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "ASURA [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:75795297BA6F1CE452D3CAD8C25BD1CC761D227C&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -2864,11 +2873,11 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6660378\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Beyond These Stars (v1.0.2259) [Installer] (GOG)",
+      "title": "Beyond These Stars (v1.0.2263) [Installer] (GOG)",
       "uris": [
-        "magnet:?xt=urn:btih:DD9DD052FEB5034CFDAA6B80071A0AFC392C40F8&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+        "magnet:?xt=urn:btih:8F56B8D352A7EC1B517C7F21B22BB22957CF6181&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-06T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "5.02 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6924041\">RuTracker Topic Page</a>"
     },
@@ -3341,15 +3350,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6893599\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Book of Demons (v1.05.240321) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:EAA9E99984B494A58E2B2C29B22D9BA4F2073605&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2024-05-14T09:00:00Z",
-      "fileSize": "2.14 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5669129\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "BOOK OF HOURS (v2025.8) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:4C97C9FD6FF258843E36A18C99435FE29875FA5D&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
@@ -3674,6 +3674,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6520753\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Brotato (v1.2.0.3) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:4D9383CDAE90EB33B96E8938FB40E2B760F7166F&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "786.4 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6822621\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Brotherhood (v1.0.4) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:0D793919CD2810EBC7BB66E3308709C55B0F05FF&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -3872,15 +3881,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5780496\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Call of Juarez: Gunslinger (v1.0.5) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:0A8EAADEF2D4BE99103FE8D02C0E94746009767E&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-08T09:00:00Z",
-      "fileSize": "4.35 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5780495\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Call of Juarez [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:BFEE5C53568B8A43F3653DB64A7853B543E6EB5A&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -4068,15 +4068,6 @@
       "uploadDate": "2026-09-17T09:00:00Z",
       "fileSize": "801.4 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6910018\">RuTracker Topic Page</a>"
-    },
-    {
-      "title": "Cataclismo (v1.5.1.0) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:377547A29699E47EC068514A01C562447677AF19&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-08T09:00:00Z",
-      "fileSize": "3.52 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6555211\">RuTracker Topic Page</a>"
     },
     {
       "title": "Catie in MeowmeowLand (v0.1.0.3) [Installer] (GOG)",
@@ -6185,15 +6176,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6234556\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Demetrios - The Big Cynical Adventure, Brok The InvestiGator (v1.6.5) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:5826AB0773E8A361F511CE124AD0597BF7C2EED7&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-13T09:00:00Z",
-      "fileSize": "8.44 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6251617\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Democracy 4 (v1.67) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:5A7D8359B0E83FD0EA17447D576DFAA49DC520BE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -6621,7 +6603,7 @@
       "uris": [
         "magnet:?xt=urn:btih:6FEBB20DE3C360B90A4261BF0805DF08D99FF01F&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-09-20T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "141.2 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5852904\">RuTracker Topic Page</a>"
     },
@@ -7067,6 +7049,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6791669\">RuTracker Topic Page</a>"
     },
     {
+      "title": "DREAMOUT (v1.0.3) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:B5BB2E3BD75F94AD8690C65217062A916585A4FE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-10-25T09:00:00Z",
+      "fileSize": "156.5 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6761490\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Dreams in the Witch House (v1.08) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:C9D5F00B3D68DBBA829278406B7CE1FFC24C44A1&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -7236,6 +7227,24 @@
       "uploadDate": "2026-09-29T09:00:00Z",
       "fileSize": "887 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6915068\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Dungeon Antiqua (Build 20261106) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:D11376EEA9E06B2DE682A3C76B0962DDDFA9E681&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "67.1 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6837461\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Dungeon Antiqua 2 (Build 20260503) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:0BDE09C134D16E76AB3AE1B218D340ACC091CA69&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "101.7 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6799875\">RuTracker Topic Page</a>"
     },
     {
       "title": "Dungeon Drafters (v1.1.2.2) [Installer] (GOG)",
@@ -8262,6 +8271,15 @@
       "uploadDate": "2026-10-20T09:00:00Z",
       "fileSize": "434.4 MB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6896419\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Exanima (v0.9.5) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:8A773130A5FAD9C7E5D00AB02D06B2832189E9B9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-10-07T09:00:00Z",
+      "fileSize": "5.6 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5587851\">RuTracker Topic Page</a>"
     },
     {
       "title": "Exiled Kingdoms (v1.3.1175) [Installer] (GOG)",
@@ -10649,15 +10667,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6615356\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Haunt the House: Terrortown (v1.0) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:3C141247C2E971D4EC2BD9FB62AB396AFF6F2DA8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-15T09:00:00Z",
-      "fileSize": "379.7 MB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=4577649\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Haunted Lands (v1.0.10) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:7A8A8560F5DE9697929B2B0601A580B56D3A7B3D&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -12125,6 +12134,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6917541\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Isekai Villain (v1.0.0) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:B21BD65893CF13A8BBD3CF7C42BFA0396F420F65&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-08-21T09:00:00Z",
+      "fileSize": "226 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6898049\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Ishar Compilation [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:6962A9B4EEEAB755802B24E3DBE95B4E7562C750&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
@@ -12960,6 +12978,15 @@
       "uploadDate": "2026-04-07T09:00:00Z",
       "fileSize": "1.51 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5199800\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "Kraken Academy!! (v1.1.12) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:BF77360895DCD3DA26E3232FF74958B4654A2545&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2025-10-17T09:00:00Z",
+      "fileSize": "1.18 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6107852\">RuTracker Topic Page</a>"
     },
     {
       "title": "Kriophobia (v1.0.2) [Installer] (GOG)",
@@ -14096,6 +14123,15 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6233660\">RuTracker Topic Page</a>"
     },
     {
+      "title": "Mafia II (v5) (2010 Original) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:F1EFD781BFE46B663B417560BF911E9FEE673B7F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "15.12 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5542194\">RuTracker Topic Page</a>"
+    },
+    {
       "title": "Mafia III (v1.09) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:55F6B708D8927C2BD7CA4B6E9999F8C87E91C392&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
@@ -14703,7 +14739,7 @@
       "uris": [
         "magnet:?xt=urn:btih:0EE57A908E8EC2EE38FA9A53F02A46C3CA1E6B53&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-07-01T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "1.85 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6855516\">RuTracker Topic Page</a>"
     },
@@ -14955,7 +14991,7 @@
       "uris": [
         "magnet:?xt=urn:btih:C938BF205FDD01FB65F8139C975E54842AE7EE47&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-07-22T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "1.09 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5770686\">RuTracker Topic Page</a>"
     },
@@ -17570,15 +17606,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5559160\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Pillars of Eternity (v3.9.5.89801) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:E62D3E1AC78AD9247107C7D276BC1F01A343BCBD&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-11-20T09:00:00Z",
-      "fileSize": "19.69 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5106160\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "Pilot Brothers 1, 2, 3 [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:391DCE950BEA36B67ECBB2CFAAF5B43067B561B5&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -18578,7 +18605,7 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5190243\">RuTracker Topic Page</a>"
     },
     {
-      "title": "Rayman® Origins (v1.0.32504) [Installer] (GOG)",
+      "title": "Rayman Origins (v1.0.32504) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:022113CD4AA6FBFA6839662CEC5FA67D809C8549&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
@@ -19359,6 +19386,15 @@
       "uploadDate": "2026-07-17T09:00:00Z",
       "fileSize": "7.24 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5410917\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "RimWorld (v1.6.4871) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:FA76ED119869F69849E48A40CD607D872C0CC6F4&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "543.7 MB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6514749\">RuTracker Topic Page</a>"
     },
     {
       "title": "Ring of Pain (v16.00) [Installer] (GOG)",
@@ -21942,6 +21978,15 @@
       "uploadDate": "2025-10-21T09:00:00Z",
       "fileSize": "7.55 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6316503\">RuTracker Topic Page</a>"
+    },
+    {
+      "title": "SPORE™ (v3.1.0.22) [Installer] (GOG)",
+      "uris": [
+        "magnet:?xt=urn:btih:41A10F8B86F038977AE365F0FEFDB9D4D37E845F&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
+      ],
+      "uploadDate": "2026-11-21T09:00:00Z",
+      "fileSize": "5.26 GB",
+      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5649174\">RuTracker Topic Page</a>"
     },
     {
       "title": "SPORTAL (v1.0.071) [Installer] (GOG)",
@@ -25508,15 +25553,6 @@
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5898320\">RuTracker Topic Page</a>"
     },
     {
-      "title": "The Shivah, The Blackwell , Gemini Rue, Resonance, Primordia, A Golden Wake, Technobabylon, Shardlight, Unavowed, Strangeland, The Excavation of Hob's Barrow, Old Skies, Nighthawks (v4.0d) [Installer] (GOG)",
-      "uris": [
-        "magnet:?xt=urn:btih:400353E4E21F1447DA647BCCEE2A83248763864E&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet"
-      ],
-      "uploadDate": "2026-10-15T09:00:00Z",
-      "fileSize": "23.69 GB",
-      "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5375272\">RuTracker Topic Page</a>"
-    },
-    {
       "title": "The Shore (v1.0) [Installer] (GOG)",
       "uris": [
         "magnet:?xt=urn:btih:A994CFF4CED69A973625FDBE8A111170369425C7&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
@@ -27888,7 +27924,7 @@
       "uris": [
         "magnet:?xt=urn:btih:205C1F16DE97EB7D4CE9BA04C0E08372512B4470&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-11-12T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "6.19 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=6936407\">RuTracker Topic Page</a>"
     },
@@ -28986,7 +29022,7 @@
       "uris": [
         "magnet:?xt=urn:btih:D22784D8BEB3ADF588A703FBBEDA5FBAF14893FB&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
       ],
-      "uploadDate": "2026-10-30T09:00:00Z",
+      "uploadDate": "2026-11-21T09:00:00Z",
       "fileSize": "15.48 GB",
       "descriptionHtml": "<a href=\"https://rutracker.org/forum/viewtopic.php?t=5117474\">RuTracker Topic Page</a>"
     },
