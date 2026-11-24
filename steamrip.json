@@ -2,6 +2,74 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "Phantom Blade Zero (Build 26367565) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/7y3dipshiscu"
+      ],
+      "uploadDate": "2026-11-23T08:08:40Z",
+      "fileSize": "143 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/phantom-blade-zero-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/phantom-blade-zero-free-download",
+        "base": "Phantom Blade Zero",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "R.E.P.O. (v0.5.2, Build 26732417) (SteamRIP)",
+      "uris": [
+        "https://bzzhr.to/0jcicc2gyqt4"
+      ],
+      "uploadDate": "2026-11-23T06:09:15Z",
+      "fileSize": "972 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/r-e-p-o-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/r-e-p-o-free-download",
+        "base": "R.E.P.O.",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Dungeonbound (v1.0.15, Build 26849433) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/8cacc44baff4acf2"
+      ],
+      "uploadDate": "2026-11-23T05:50:06Z",
+      "fileSize": "282 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/dungeonbound-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/dungeonbound-free-download",
+        "base": "Dungeonbound",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Zombies Aren't Real (Build 26692741) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/eb27eb975a495b4d"
+      ],
+      "uploadDate": "2026-11-23T05:36:52Z",
+      "fileSize": "302 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/zombies-arent-real-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/zombies-arent-real-free-download",
+        "base": "Zombies Aren't Real",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl (Build 26123434) (SteamRIP)",
       "uris": [
         "https://gofile.io/d/WR89kruy",
@@ -2768,23 +2836,6 @@
       "debug": {
         "page": "https://steamrip.com/nomad-drive-free-download",
         "base": "Nomad Drive",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "R.E.P.O. (v0.5.1, Build 26407089) (SteamRIP)",
-      "uris": [
-        "https://itsfileditchfiles.st/alpha41/8f1dc0ea41e18aa0dc38/REPO-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-11-05T15:20:26Z",
-      "fileSize": "1 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/r-e-p-o-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/r-e-p-o-free-download",
-        "base": "R.E.P.O.",
         "kind": "main",
         "section": null,
         "notes": [],
