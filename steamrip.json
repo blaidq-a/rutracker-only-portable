@@ -2,16 +2,70 @@
   "name": "SteamRIP",
   "downloads": [
     {
-      "title": "Phantom Blade Zero (Build 26367565) (SteamRIP)",
+      "title": "BOMBANANA! (v1.3.2, Build 26855717) (SteamRIP)",
       "uris": [
-        "https://bzzhr.to/7y3dipshiscu"
+        "https://megadb.net/67f67626882afb9b"
       ],
-      "uploadDate": "2026-11-23T08:08:40Z",
-      "fileSize": "143 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/phantom-blade-zero-free-download\">Website with instructions for launching the game</a>",
+      "uploadDate": "2026-11-24T18:53:59Z",
+      "fileSize": "380 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/bombanana-free-download\">Website with instructions for launching the game</a>",
       "debug": {
-        "page": "https://steamrip.com/phantom-blade-zero-free-download",
-        "base": "Phantom Blade Zero",
+        "page": "https://steamrip.com/bombanana-free-download",
+        "base": "BOMBANANA!",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Dressmaker (Build 26869276) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/555ad24266efd2b6",
+        "https://itsfileditchfiles.st/alpha45/49f765fe98e072b94c27/Dressmaker-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-24T18:30:44Z",
+      "fileSize": "329 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/dressmaker-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/dressmaker-free-download",
+        "base": "Dressmaker",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Workers & Resources: Soviet Republic (v1.2.0.8, Build 26869140) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/4mJJ9zts",
+        "https://itsfileditchfiles.st/alpha45/9dd4a7a0cccc1f4f5826/Workers-Resources-SR-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-24T18:28:45Z",
+      "fileSize": "7.5 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/workers-resources-soviet-republic-free-download-1h\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/workers-resources-soviet-republic-free-download-1h",
+        "base": "Workers & Resources: Soviet Republic",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Cities: Skylines (v1.21.2-f5, Build 25432556) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/mlSZP8jo",
+        "https://itsfileditchfiles.st/alpha45/f2ff6e84fe2e4ed5ce08/Cities-Skylines-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-24T18:20:08Z",
+      "fileSize": "9.1 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/cities-skylines-free-download-2j\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/cities-skylines-free-download-2j",
+        "base": "Cities: Skylines",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -29,6 +83,44 @@
       "debug": {
         "page": "https://steamrip.com/r-e-p-o-free-download",
         "base": "R.E.P.O.",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "The House of Tesla (v109) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/f2G8lWuu",
+        "https://itsfileditchfiles.st/alpha45/cfbecd34785a45b9db45/The-House-of-Tesla-SteamRIP.com.rar",
+        "https://bzzhr.to/wesublutowrt"
+      ],
+      "uploadDate": "2026-11-24T12:47:06Z",
+      "fileSize": "6.9 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/the-house-of-tesla-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/the-house-of-tesla-free-download",
+        "base": "The House of Tesla",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Phantom Blade Zero (Build 26367565) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha45/c7ac9daf8a96d2e8f4ba/Phantom-Blade-0-SteamRIP.com.rar",
+        "https://gofile.io/d/4gYLZDsM",
+        "https://bzzhr.to/7y3dipshiscu"
+      ],
+      "uploadDate": "2026-11-24T12:45:06Z",
+      "fileSize": "143 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/phantom-blade-zero-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/phantom-blade-zero-free-download",
+        "base": "Phantom Blade Zero",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -2308,24 +2400,6 @@
       "debug": {
         "page": "https://steamrip.com/backpack-battles-free-download",
         "base": "Backpack Battles",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Dressmaker (Build 26043449) (SteamRIP)",
-      "uris": [
-        "https://megadb.net/4c9fc517ae2ba284",
-        "https://itsfileditchfiles.st/balpha45/ee760b349045e0aece03/Dressmaker-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-11-09T06:32:19Z",
-      "fileSize": "329 MB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/dressmaker-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/dressmaker-free-download",
-        "base": "Dressmaker",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -4659,23 +4733,6 @@
       "debug": {
         "page": "https://steamrip.com/labyrinthine-free-download",
         "base": "Labyrinthine",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "BOMBANANA! (v1.2.0, Build 26188740) (SteamRIP)",
-      "uris": [
-        "https://megadb.net/b6ef46fedeacbcfd"
-      ],
-      "uploadDate": "2026-10-27T10:46:01Z",
-      "fileSize": "296 MB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/bombanana-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/bombanana-free-download",
-        "base": "BOMBANANA!",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -37344,24 +37401,6 @@
       }
     },
     {
-      "title": "Workers & Resources: Soviet Republic (v1.1.1.7) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/me1vievwz2xt",
-        "https://gofile.io/d/jVHF1X"
-      ],
-      "uploadDate": "2026-06-20T13:27:26Z",
-      "fileSize": "6.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/workers-resources-soviet-republic-free-download-1h\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/workers-resources-soviet-republic-free-download-1h",
-        "base": "Workers & Resources: Soviet Republic",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
       "title": "Valley (Build 1595577) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/4alr8y48e31b"
@@ -45337,24 +45376,6 @@
       }
     },
     {
-      "title": "Cities: Skylines (v1.21.1-f9) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/coYrVY",
-        "https://fileditchfiles.me/file.php"
-      ],
-      "uploadDate": "2026-04-17T07:15:00Z",
-      "fileSize": "9.3 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/cities-skylines-free-download-2j\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/cities-skylines-free-download-2j",
-        "base": "Cities: Skylines",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
       "title": "Football Life Simulator (Build 21783966) (SteamRIP)",
       "uris": [
         "https://gofile.io/d/i8pY80",
@@ -48147,24 +48168,6 @@
       "debug": {
         "page": "https://steamrip.com/out-of-sight-free-download",
         "base": "Out of Sight",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "The House of Tesla (v109) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/GLSdaP",
-        "https://bzzhr.to/wesublutowrt"
-      ],
-      "uploadDate": "2026-03-12T01:56:32Z",
-      "fileSize": "6.9 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/the-house-of-tesla-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/the-house-of-tesla-free-download",
-        "base": "The House of Tesla",
         "kind": "main",
         "section": null,
         "notes": [],
