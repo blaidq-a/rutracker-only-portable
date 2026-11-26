@@ -2,6 +2,41 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "Slime Rancher 2 (v1.3.0, Build 24131940) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/alX2MUSM",
+        "https://itsfileditchfiles.st/balpha52/18de2b649e7ab8acf4cb/Slime-Rancher-2-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-25T16:45:31Z",
+      "fileSize": "3.18 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/slime-rancher-2-free-download-1k\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/slime-rancher-2-free-download-1k",
+        "base": "Slime Rancher 2",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Valor Mortis (Build 26788083) (SteamRIP)",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha45/3bffd169a63b91ee5c6d/Valor-Mortis-SteamRIP.com.rar"
+      ],
+      "uploadDate": "2026-11-25T16:37:20Z",
+      "fileSize": "40.4 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/valor-mortis-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/valor-mortis-free-download",
+        "base": "Valor Mortis",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "BOMBANANA! (v1.3.2, Build 26855717) (SteamRIP)",
       "uris": [
         "https://megadb.net/67f67626882afb9b"
@@ -4129,23 +4164,6 @@
       "debug": {
         "page": "https://steamrip.com/anomalith-free-download",
         "base": "アノマリス／ANOMALITH",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Valor Mortis (Build 26187365) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/1fk2fvbeh1mx"
-      ],
-      "uploadDate": "2026-10-29T13:33:04Z",
-      "fileSize": "40.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/valor-mortis-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/valor-mortis-free-download",
-        "base": "Valor Mortis",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -14529,23 +14547,6 @@
       "debug": {
         "page": "https://steamrip.com/hades-2-free-download",
         "base": "Hades II",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Slime Rancher 2 (v1.3.0, Build 24131940) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/pv9vag15p1la"
-      ],
-      "uploadDate": "2026-09-24T15:19:46Z",
-      "fileSize": "5.5 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/slime-rancher-2-free-download-1k\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/slime-rancher-2-free-download-1k",
-        "base": "Slime Rancher 2",
         "kind": "main",
         "section": null,
         "notes": [],
