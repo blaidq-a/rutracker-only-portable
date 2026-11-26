@@ -108,12 +108,13 @@
       }
     },
     {
-      "title": "R.E.P.O. (v0.5.2, Build 26732417) (SteamRIP)",
+      "title": "R.E.P.O. (v0.5.3, Build 26813769) (SteamRIP)",
       "uris": [
-        "https://bzzhr.to/0jcicc2gyqt4"
+        "https://itsfileditchfiles.st/alpha45/41e85a95a2dfd0ea19e4/REPO-SteamRIP.com.rar",
+        "https://gofile.io/d/IxIy15P4"
       ],
-      "uploadDate": "2026-11-23T06:09:15Z",
-      "fileSize": "972 MB",
+      "uploadDate": "2026-11-24T18:09:23Z",
+      "fileSize": "971 MB",
       "descriptionHtml": "<a href=\"https://steamrip.com/r-e-p-o-free-download\">Website with instructions for launching the game</a>",
       "debug": {
         "page": "https://steamrip.com/r-e-p-o-free-download",
@@ -412,7 +413,7 @@
       }
     },
     {
-      "title": "DREADMOOR (v0.4.49, Build 26547433) (SteamRIP)",
+      "title": "DREADMOOR (v0.4.49, Build 26786104) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/8bk30dbwogwf",
         "https://itsfileditchfiles.st/alpha44/aa432b9928a283d6aa9d/DREADMOOR-SteamRIP.com.rar"
@@ -490,7 +491,7 @@
       }
     },
     {
-      "title": "Disney Dreamlight Valley (v1.26.1.633, Build 24078986) (SteamRIP)",
+      "title": "Disney Dreamlight Valley (v1.26.1.633, Build 26495685) (SteamRIP)",
       "uris": [
         "https://bzzhr.to/n524gg5dwhzf",
         "https://itsfileditchfiles.st/alpha44/be7e06d36030f45b3e74/Disney-Dreamlight-Valley-SteamRIP.com.rar"
@@ -26931,25 +26932,6 @@
       "debug": {
         "page": "https://steamrip.com/the-life-and-suffering-of-prince-jerian-free-download",
         "base": "The Life and Suffering of Prince Jerian",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Crimson Desert (v1.14.00, Build 24236217) (SteamRIP)",
-      "uris": [
-        "https://bzzhr.to/w808u462j3hi",
-        "https://gofile.io/d/Af2ixw",
-        "https://fileditchfiles.st/balpha1/044995b5eafda55f6ce3/Crimson-Desert-SteamRIP.com.rar"
-      ],
-      "uploadDate": "2026-08-04T19:30:11Z",
-      "fileSize": "90 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/crimson-desert-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/crimson-desert-free-download",
-        "base": "Crimson Desert",
         "kind": "main",
         "section": null,
         "notes": [],
