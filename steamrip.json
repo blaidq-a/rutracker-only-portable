@@ -2,6 +2,91 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "Arctic Drive (v0.23.2, Build 26945969) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/uhQIAHQ9"
+      ],
+      "uploadDate": "2026-11-27T01:11:06Z",
+      "fileSize": "6.2 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/arctic-drive-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/arctic-drive-free-download",
+        "base": "Arctic Drive",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "No Asteroids (v1.0.7, Build 26947642) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/e4b0fcb8c598087b"
+      ],
+      "uploadDate": "2026-11-27T00:18:39Z",
+      "fileSize": "537 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/no-asteroids-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/no-asteroids-free-download",
+        "base": "No Asteroids",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Dungeonbound (v1.0.19, Build 26849433) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/2afe110bb9a566b6"
+      ],
+      "uploadDate": "2026-11-26T22:21:03Z",
+      "fileSize": "282 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/dungeonbound-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/dungeonbound-free-download",
+        "base": "Dungeonbound",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Stellaris Ultimate Bundle (v4.6.0, Build 26639410) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/mRt09FB8"
+      ],
+      "uploadDate": "2026-11-26T21:59:01Z",
+      "fileSize": "15.1 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/stellaris-free-download-s2\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/stellaris-free-download-s2",
+        "base": "Stellaris Ultimate Bundle",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "R.E.P.O. (v0.5.4, Build 26893562) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/GOBt9ChM"
+      ],
+      "uploadDate": "2026-11-26T21:37:36Z",
+      "fileSize": "972 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/r-e-p-o-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/r-e-p-o-free-download",
+        "base": "R.E.P.O.",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "Slime Rancher 2 (v1.3.0, Build 24131940) (SteamRIP)",
       "uris": [
         "https://gofile.io/d/alX2MUSM",
@@ -108,24 +193,6 @@
       }
     },
     {
-      "title": "R.E.P.O. (v0.5.3, Build 26813769) (SteamRIP)",
-      "uris": [
-        "https://itsfileditchfiles.st/alpha45/41e85a95a2dfd0ea19e4/REPO-SteamRIP.com.rar",
-        "https://gofile.io/d/IxIy15P4"
-      ],
-      "uploadDate": "2026-11-24T18:09:23Z",
-      "fileSize": "971 MB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/r-e-p-o-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/r-e-p-o-free-download",
-        "base": "R.E.P.O.",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
       "title": "The House of Tesla (v109) (SteamRIP)",
       "uris": [
         "https://gofile.io/d/f2G8lWuu",
@@ -157,23 +224,6 @@
       "debug": {
         "page": "https://steamrip.com/phantom-blade-zero-free-download",
         "base": "Phantom Blade Zero",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Dungeonbound (v1.0.15, Build 26849433) (SteamRIP)",
-      "uris": [
-        "https://megadb.net/8cacc44baff4acf2"
-      ],
-      "uploadDate": "2026-11-23T05:50:06Z",
-      "fileSize": "282 MB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/dungeonbound-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/dungeonbound-free-download",
-        "base": "Dungeonbound",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -13695,24 +13745,6 @@
       "debug": {
         "page": "https://steamrip.com/the-precinct-free-download",
         "base": "The Precinct",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Stellaris Ultimate Bundle (v4.5.1, Build 25505771) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/csQgmhD3",
-        "https://bzzhr.to/jslmi1ohpe0w"
-      ],
-      "uploadDate": "2026-09-26T15:19:32Z",
-      "fileSize": "18.4 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/stellaris-free-download-s2\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/stellaris-free-download-s2",
-        "base": "Stellaris Ultimate Bundle",
         "kind": "main",
         "section": null,
         "notes": [],
