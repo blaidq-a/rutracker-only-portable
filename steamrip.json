@@ -2,6 +2,41 @@
   "name": "SteamRIP",
   "downloads": [
     {
+      "title": "No Asteroids (v1.0.7, Build 26947642) (SteamRIP)",
+      "uris": [
+        "https://megadb.net/e4b0fcb8c598087b",
+        "https://bzzhr.to/mgq6bq5db6b0"
+      ],
+      "uploadDate": "2026-11-27T15:41:12Z",
+      "fileSize": "537 MB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/no-asteroids-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/no-asteroids-free-download",
+        "base": "No Asteroids",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
+      "title": "Company of Heroes 3 (v3.0.3, Build 26938605) (SteamRIP)",
+      "uris": [
+        "https://gofile.io/d/xVaelj8n"
+      ],
+      "uploadDate": "2026-11-27T04:21:27Z",
+      "fileSize": "30.6 GB",
+      "descriptionHtml": "<a href=\"https://steamrip.com/company-of-heroes-3-free-download\">Website with instructions for launching the game</a>",
+      "debug": {
+        "page": "https://steamrip.com/company-of-heroes-3-free-download",
+        "base": "Company of Heroes 3",
+        "kind": "main",
+        "section": null,
+        "notes": [],
+        "containers": []
+      }
+    },
+    {
       "title": "Arctic Drive (v0.23.2, Build 26945969) (SteamRIP)",
       "uris": [
         "https://gofile.io/d/uhQIAHQ9"
@@ -12,23 +47,6 @@
       "debug": {
         "page": "https://steamrip.com/arctic-drive-free-download",
         "base": "Arctic Drive",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "No Asteroids (v1.0.7, Build 26947642) (SteamRIP)",
-      "uris": [
-        "https://megadb.net/e4b0fcb8c598087b"
-      ],
-      "uploadDate": "2026-11-27T00:18:39Z",
-      "fileSize": "537 MB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/no-asteroids-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/no-asteroids-free-download",
-        "base": "No Asteroids",
         "kind": "main",
         "section": null,
         "notes": [],
@@ -27728,24 +27746,6 @@
       "debug": {
         "page": "https://steamrip.com/sudden-strike-5-free-download",
         "base": "Sudden Strike 5",
-        "kind": "main",
-        "section": null,
-        "notes": [],
-        "containers": []
-      }
-    },
-    {
-      "title": "Company of Heroes 3 (Build 24466545) (SteamRIP)",
-      "uris": [
-        "https://gofile.io/d/FCYsbB",
-        "https://bzzhr.to/y7h2c3yltsuc"
-      ],
-      "uploadDate": "2026-07-30T18:51:29Z",
-      "fileSize": "29 GB",
-      "descriptionHtml": "<a href=\"https://steamrip.com/company-of-heroes-3-free-download\">Website with instructions for launching the game</a>",
-      "debug": {
-        "page": "https://steamrip.com/company-of-heroes-3-free-download",
-        "base": "Company of Heroes 3",
         "kind": "main",
         "section": null,
         "notes": [],
